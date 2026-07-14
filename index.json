@@ -3,6 +3,10 @@
     {
       "id": "DOA",
       "show_as": "Developer Option"
+    },    
+    {
+      "id": "EAA",
+      "show_as": "SMA1"
     }
   ]
 }
