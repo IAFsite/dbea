@@ -7,6 +7,30 @@
           "show_as": "Other file",
           "short": "random text",
           "wp": "wp/a.png"
+        },     
+        {
+          "id": "B",
+          "show_as": "B.indo",
+          "short": "Bahasa indonesia",
+          "wp": "wp/a.png"
+        },           
+        {
+          "id": "C",
+          "show_as": "MTK",
+          "short": "Matematika",
+          "wp": "wp/a.png"
+        },
+        {
+          "id": "D",
+          "show_as": "WIra usaha",
+          "short": "Wira usaha",
+          "wp": "wp/a.png"
+        },
+        {
+          "id": "E",
+          "show_as": "PAI",
+          "short": "Pelajaaran Agama Islam",
+          "wp": "wp/a.png"
         }
 
   ]
