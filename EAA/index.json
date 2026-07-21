@@ -31,6 +31,12 @@
           "show_as": "PAI",
           "short": "Pelajaaran Agama Islam",
           "wp": "wp/a.png"
+        },
+                {
+          "id": "F",
+          "show_as": "Economi",
+          "short": "Ekonomi",
+          "wp": "wp/a.png"
         }
 
   ]
