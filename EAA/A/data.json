@@ -1012,7 +1012,7 @@
       "reg_id": "EAAA00515072026",
       "title": "time tabel",
       "content": [
-        "no data"
+        "#delet"
       ]
     },    
     {
@@ -1034,18 +1034,14 @@
       "reg_id": "EAAA00715072026",
       "title": "buku mpls",
       "content": [
-        "ga penting"
+        "#empty"
       ]
     },
     {
       "reg_id": "EAAA00815072026",
       "title": "tiny habit",
       "content": [
-        "target : bangun jam 5.30",
-        "___",
-        "kebiasaan : tidur jam 04.00",
-        "___",
-        "saya harus tidur lebih cepat tiap hari"
+        "#delet"
       ]
     }
 
