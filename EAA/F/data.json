@@ -57,10 +57,28 @@
       "reg_id": "EAAF00328072026",
       "title": "misi",
       "content": [
+        "misi 01",
+        "#image EAA/F/fhbshbffbsfbsbfaiubf.png",
         "#code",
-        "barang              tingkat   waktu       faktor",
-        "makanan             primer    saat ini    saya lapar",
-        "isi kartu E-mony    primer    saat ini    kartunya habis"
+        "barang              tingkat   waktu         faktor",
+        "makanan             primer    saat ini      saya lapar",
+        "isi kartu E-mony    primer    saat ini      kartunya habis",
+        "kamera ir           tersier   masa depan    saya butuh face tracking",
+        "sekolah             primer    saat ini      saya butuh edukasi",
+        "jajan               sekunder  saat ini      saya lapar",
+        "laptop              sekunder  saat ini      saya ingin mencatat",
+        "",
+        "___",
+        "misi 02",
+        "#image EAA/F/askkdskskakakdka.png",
+        "barang = GC0308",
+        "cara memperoleh = ekonomi",
+        "hubungan penggunaan = komplimenter",
+        "proses pengolahan = setengah jadi",
+        "___",
+        "misi 03",
+        "#image EAA/F/image28072026.png",
+        "saya tidak akan membeli barang tersebut"
         
       ]
     }
