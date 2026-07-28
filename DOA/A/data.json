@@ -52,7 +52,22 @@
     "",
     "Paragraf terakhir setelah semua media selesai ditampilkan."
   ]
-}
+},
+    {
+      "reg_id": "DOAA00321072026",
+      "title": "404 - Not Found",
+      "content": "#404"
+    },
+    {
+      "reg_id": "DOAA00421072026",
+      "title": "200 - empty",
+      "content": "#empty"
+    },
+    {
+      "reg_id": "DOAA00521072026",
+      "title": "410 - delet",
+      "content": "#delet"
+    }
 
   ]
 }
