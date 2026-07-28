@@ -52,6 +52,17 @@
         "- kebutuhan fisik : ini yg berhubungan soal fisik kek baju atau makanan",
         "kebutuhan rohani : ini yang berhubungan dengan mental kek jangan steres (gw aslinya juga ga tau)"
       ]
+    },
+    {
+      "reg_id": "EAAF00328072026",
+      "title": "misi",
+      "content": [
+        "#code",
+        "barang              tingkat   waktu       faktor",
+        "makanan             primer    saat ini    saya lapar",
+        "isi kartu E-mony    primer    saat ini    kartunya habis"
+        
+      ]
     }
 
   ]
