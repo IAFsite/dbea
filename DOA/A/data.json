@@ -78,7 +78,162 @@
       "reg_id": "DOAA00521072026",
       "title": "410 - delet",
       "content": "#delet"
-    }
+    },
+    {
+  "reg_id": "DOAA0062907202s6",
+  "title": "Markdown Test",
+  "content": [
+
+    "#h1 EDUARC Markdown Test",
+
+    "Ini adalah contoh dokumen EDUARC.",
+    "Dokumen ini digunakan untuk menguji seluruh parser EDUARC.",
+
+    "___",
+
+    "#h2 Format Teks",
+
+    "Ini adalah **huruf tebal**.",
+    "Ini adalah *huruf miring*.",
+    "Ini adalah __garis bawah__.",
+    "Ini adalah ~~teks dicoret~~.",
+    "Ini adalah `inline code`.",
+    "Kombinasi **bold**, *italic*, dan __underline__.",
+
+    "___",
+
+    "#h2 Heading",
+
+    "#h3 Heading Level 3",
+
+    "Heading di atas digunakan untuk menguji ukuran font.",
+
+    "___",
+
+    "#h2 Quote",
+
+    "> Ini adalah contoh blockquote.",
+    "> Baris kedua quote.",
+
+    "___",
+
+    "#h2 Bullet List",
+
+    "- Apel",
+    "- Jeruk",
+    "- Mangga",
+    "- Pisang",
+
+    "___",
+
+    "#h2 Number List",
+
+    "1. Pertama",
+    "2. Kedua",
+    "3. Ketiga",
+    "4. Keempat",
+
+    "___",
+
+    "#h2 Link",
+
+    "Website resmi: [GitHub](https://github.com)",
+
+    "___",
+
+    "#h2 Alignment",
+
+    "#center",
+    "Teks ini berada di tengah.",
+    "Baris kedua juga di tengah.",
+    "#endalign",
+
+    "",
+
+    "#left",
+    "Teks rata kiri.",
+    "#endalign",
+
+    "",
+
+    "#right",
+    "Teks rata kanan.",
+    "#endalign",
+
+    "___",
+
+    "#h2 Note",
+
+    "#note Ini adalah contoh note EDUARC.",
+
+    "___",
+
+    "#h2 Image",
+
+    "#image DOA/wp/a.png",
+
+    "___",
+
+    "#h2 Video",
+
+    "#video DOA/A/2026-07-02 02-28-06.mp4",
+
+    "___",
+
+    "#h2 Audio",
+
+    "#audio DOA/A/slowed.wav",
+
+    "___",
+
+    "#h2 PDF",
+
+    "#pdf archive/example.pdf",
+
+    "___",
+
+    "#h2 File",
+
+    "#file archive/example.zip",
+
+    "___",
+
+    "#h2 Code",
+
+    "#code",
+    "const message = \"Hello EDUARC\";",
+    "console.log(message);",
+    "",
+    "function hello(name){",
+    "    return `Hello ${name}`;",
+    "}",
+    "#endcode",
+
+    "___",
+
+    "#h2 Table",
+
+    "#table",
+    "Nama | Umur | Kota",
+    "---|---|---",
+    "Furru | 15 | Bekasi",
+    "Velza | 18 | Server",
+    "EDUARC | Beta | GitHub",
+    "#endtable",
+
+    "___",
+
+    "#h2 Error Placeholder",
+
+    "#empty",
+    "#404",
+    "#delet",
+
+    "___",
+
+    "Paragraf terakhir setelah seluruh media berhasil ditampilkan."
+  ]
+}
 
   ]
 }
