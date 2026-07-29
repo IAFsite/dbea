@@ -73,6 +73,12 @@
           "show_as": "b.inggris",
           "short": "bahasa inggris",
           "wp": "wp/a.png"
+        },
+        {
+          "id": "H",
+          "show_as": "Iformatika",
+          "short": "Biologi",
+          "wp": "wp/a.png"
         }
 
   ]
