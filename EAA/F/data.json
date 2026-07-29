@@ -59,7 +59,7 @@
       "content": [
         "#h1 misi 01",
         "#image EAA/F/fhbshbffbsfbsbfaiubf.png",
-        "#tabel",
+        "#table",
         "barang | tingkat | waktu | faktor",
         "--- | --- | ---",
         "makanan | primer | saat ini |saya lapar",
@@ -68,7 +68,7 @@
         "sekolah | primer | saat ini | saya butuh edukasi",
         "jajan | sekunder | saat ini | saya lapar",
         "laptop | sekunder | saat ini | saya ingin mencatat",
-        "#endtabel",
+        "#endtable",
         "",
         "___",
         "#h1 misi 02",

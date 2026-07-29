@@ -10,7 +10,7 @@
       "reg_id": "EAAL00120072026",
       "title": "kenjir",
       "content": [
-        "#tabel",
+        "#table",
         "questtion | awnser",
         "--- | ---",
         "what your name | Atallah kenzie arrie assadiq",
@@ -22,7 +22,8 @@
         "free time | study and play game",
         "comunity | minecratft cuomunity",
         "good at | playinng game",
-        "music gendere | pop"
+        "music gendere | pop",
+        "#endtable"
       ]
     }
 
