@@ -17,26 +17,30 @@
       "reg_id": "EAAB00228072026",
       "title": "pengertian text LHO",
       "content": [
+        "#h1 apa itu LHO",
         "LHO atau laporan hasil observasi adalah yang menyajikan informasi tentang objekt atau fenomena secara sistematis, objektif dan faktual",
         "___",
-        "tujuan LHO",
+        "#h1 tujuan LHO",
         "memberikan informasi mengenai objek atau fenomena",
         "mengklasifikasikan objek berdasarkan ciri tertentu",
         "mendokumentasikan hasil pengamatan",
         "menambah pengetahuan pembaca",
         "menjadi dasar tindakan, penelitan atau keputusan",
         "___",
-        "fungsi teks LHO",
-        "#code",
-        "fungsi         contoh penggunaan",
-        "informatif     "
+        "#h1 fungsi teks LHO",
+        "#tabel",
+        "Fungsi | Contoh",
+        "--- | ---",
+        "informatif | ",
+        "#endtabel"
       ]
     },
     {
       "reg_id": "EAAB00328072026",
       "title": "kata",
       "content": [
-        "Nomina = kata benda ada konkret dan abstrak",
+        "#h1 Nomina",
+        "#h2 Nomina = kata benda ada konkret dan abstrak",
         "",
         "anggap lah gini abstrak itu ga punya bentuk fisik",
         "",
