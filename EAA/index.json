@@ -52,26 +52,26 @@
         },
         {
           "id": "I",
-          "show_as": "Iformatika",
-          "short": "Biologi",
+          "show_as": "kimia catetan",
+          "short": "catetan",
           "wp": "wp/a.png"
         },
         {
           "id": "J",
-          "show_as": "Iformatika",
-          "short": "Biologi",
+          "show_as": "kimia tugas",
+          "short": "tugas",
           "wp": "wp/a.png"
         },
         {
           "id": "K",
-          "show_as": "Iformatika",
-          "short": "Biologi",
+          "show_as": "sosiologi",
+          "short": "sosiologi",
           "wp": "wp/a.png"
         },
         {
           "id": "L",
-          "show_as": "Iformatika",
-          "short": "Biologi",
+          "show_as": "b.inggris",
+          "short": "bahasa inggris",
           "wp": "wp/a.png"
         }
 
