@@ -79,15 +79,28 @@
         "kepada | ini biasanya buat kek ke orang | segera melapor kepada supervisor",
         "#endtable",
         "___",
-        "#kopula",
+        "#h1 kopula",
         "- adalah",
         "- yakni",
         "- ialah",
         "- merupakan"
 
       ]
+    },
+    {
+      "reg_id": "EAAB00430072026",
+      "title": "kapital",
+      "content": [
+        "#h1 apa saja yg harus kapial",
+        "#table",
+        "nama | contoh | contoh dalam kalimat",
+        "--- | --- | ---",
+        "nama agama | Islam/Kristen/Yahudi | Saya beragama Islam",
+        "nama kitab suci | Al-Quran | saya membaca Al-Quran di sekolah",
+        "nama hari | Senin/Selasa/Rabu/Kamis/Jumat | Oy bro hari Senin nonton yuk",
+        "nama Tahun tanpa nama kalender "
+      ]
     }
-
 
   ]
 }
