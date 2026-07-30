@@ -63,7 +63,8 @@
         "#table",
         "nama | penegertian | contoh",
         "--- | --- | ---",
-        "sangat + | ini artinya di depan `sangat` kita bisa nambahin kata | sangat `enak`"
+        "sangat + | ini artinya di depan `sangat` kita bisa nambahin kata | sangat `enak`",
+        "#endtable"
       ]
     }
 
