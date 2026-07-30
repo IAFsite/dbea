@@ -20,11 +20,12 @@
         "--- | ---",
         "EDUARC 1.0 | ini EDUARC pertama literly cuman text dan foto video audio dan beberapa markdown lain",
         "EDUARC 1.1 | kita menambahkan vitur delet empty dan eror",
-        "EDUARC 1.2 | markdown kek tabel h1 h2 dll"
+        "EDUARC 1.2 | markdown kek tabel h1 h2 dll",
+        "#endtable"
       ]
     },
     {
-      "reg_id": "DOAB00230072026",
+      "reg_id": "DOAB00330072026",
       "title": "incoming update",
       "content": [
         "soooo yeah ini dev team IAF kita saat ini lagi merencanakan EDUARC 2.0 jadi kita mau bikin cdn proper ini pastu susah tapi kita lagi mau usahakan ini kemungkinan bakal jadi proyek yang panjang maybe 3 bulan saat ini kita masih perencanaan kita bakal liat lagi hsilnya gimana so yeah kami team dev IAF sekian terimaksih"
