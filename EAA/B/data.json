@@ -28,11 +28,11 @@
         "menjadi dasar tindakan, penelitan atau keputusan",
         "___",
         "#h1 fungsi teks LHO",
-        "#tabel",
+        "#table",
         "Fungsi | Contoh",
         "--- | ---",
         "informatif | ",
-        "#endtabel"
+        "#endtable"
       ]
     },
     {
@@ -42,11 +42,28 @@
         "#h1 Nomina",
         "#h2 Nomina = kata benda ada konkret dan abstrak",
         "",
-        "anggap lah gini abstrak itu ga punya bentuk fisik",
-        "",
-        "kalau konkret dia punya bentuk fisik kek lu tau benda fisik kakn sebuah objek yang bisa lu sentuh dan kerasa kek kalau lu sentuh meja kerasa kan nah objek macam gitu dia adalah benda fisik",
+        "#table",
+        "nama | pengertian",
+        "--- | ---",
+        "abstrak | anggap lah gini abstrak itu ga punya bentuk fisik",
+        "konkret | kalau konkret dia punya bentuk fisik kek lu tau benda fisik kakn sebuah objek yang bisa lu sentuh dan kerasa kek kalau lu sentuh meja kerasa kan nah objek macam gitu dia adalah benda fisik",
+        "#endtable",
         "___",
-        "urba adalah kata kerja dan dia ada 2 "
+        "#h1",
+        "#h2 urba = kata kerja ada mental dan aksi",
+        "#table",
+        "nama | pengertian",
+        "--- | ---",
+        "mental | ini no effort kek ga keliatan lu cuman ya ga ngapagapain seperti berfikir lu ga keliatan lagi mikir kan tapi lu lagi mikir",
+        "aksi | ini yang keliatan kek you know jalan kaki berenang masak jadi yang butuh effort",
+        "#endtable",
+        "___",
+        "h1 adjektifa",
+        "adjektifa = katasifat ini ada 2 asangt + dan + sekali",
+        "#table",
+        "nama | penegertian | contoh",
+        "--- | --- | ---",
+        "sangat + | ini artinya di depan `sangat` kita bisa nambahin kata | sangat `enak`"
       ]
     }
 
