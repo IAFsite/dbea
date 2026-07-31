@@ -15,12 +15,13 @@
       "reg_id": "DOAB00230072026",
       "title": "eduarc 1 history",
       "content": [
+        "okey jujur gw ga begitu inget soal eduarc 1 jadi ya ini recap se inget gw",
         "#table",
         "version | what update",
         "--- | ---",
-        "EDUARC 1.0 | ini EDUARC pertama literly cuman text dan foto video audio dan beberapa markdown lain",
-        "EDUARC 1.1 | kita menambahkan vitur delet empty dan eror",
-        "EDUARC 1.2 | markdown kek tabel h1 h2 dll",
+        "EDUARC 1.0.0 | ini EDUARC pertama literly cuman text dan foto video audio dan beberapa markdown lain",
+        "EDUARC 1.0.1 | kita menambahkan vitur delet empty dan eror",
+        "EDUARC 1.1.0 | markdown kek tabel h1 h2 dll",
         "#endtable"
       ]
     },
