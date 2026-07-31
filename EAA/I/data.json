@@ -1,24 +1,7 @@
 {
-  "meta": {
-    "show_as": "kimia catetan",
-    "wp": "wp.png"
-  },
-
+  "meta": {"show_as": "kimia catetan","wp": "wp.png"},
   "data": [
-
-    {
-      "reg_id": "EAAI00128072026",
-      "title": "pengenalan",
-      "content": [
-        "#image PowerPointPRKimia10AEd.2019-16.jpg",
-        "#image PowerPointPRKimia10AEd.2019-17.jpg",
-        "#image PowerPointPRKimia10AEd.2019-18.jpg",
-        "#image PowerPointPRKimia10AEd.2019-19.jpg",
-        "#image PowerPointPRKimia10AEd.2019-20.jpg",
-        "#image PowerPointPRKimia10AEd.2019-21.jpg"
-
-      ]
-    }
+    {"reg_id": "EAAI00128072026","title": "pengenalan","content": ["#image PowerPointPRKimia10AEd.2019-16.jpg","#image PowerPointPRKimia10AEd.2019-17.jpg","#image PowerPointPRKimia10AEd.2019-18.jpg","#image PowerPointPRKimia10AEd.2019-19.jpg","#image PowerPointPRKimia10AEd.2019-20.jpg","#image PowerPointPRKimia10AEd.2019-21.jpg"]}
 
   ]
 }

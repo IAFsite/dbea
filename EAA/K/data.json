@@ -1,18 +1,7 @@
 {
-  "meta": {
-    "show_as": "soiolog",
-    "wp": "wp.png"
-  },
-
+  "meta": {"show_as": "soiolog","wp": "wp.png"},
   "data": [
-
-    {
-      "reg_id": "EAAB00120072026",
-      "title": "test",
-      "content": [
-        "#empty"
-      ]
-    }
+    {"reg_id": "EAAB00120072026","title": "test","content": ["#empty"]}
 
   ]
 }

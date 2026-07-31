@@ -1,31 +1,7 @@
 {
-  "meta": {
-    "show_as": "B.inggris",
-    "wp": "wp.png"
-  },
-
+  "meta": {"show_as": "B.inggris","wp": "wp.png"},
   "data": [
-
-    {
-      "reg_id": "EAAL00120072026",
-      "title": "kenjir",
-      "content": [
-        "#table",
-        "questtion | awnser",
-        "--- | ---",
-        "what your name | Atallah kenzie arrie assadiq",
-        "ware do you live | kelapanunggal",
-        "ware you are born | jakarta",
-        "when do you born | 15/01/2011",
-        "hobby | lisenig to music and play game",
-        "fav food | mie ayam",
-        "free time | study and play game",
-        "comunity | minecratft cuomunity",
-        "good at | playinng game",
-        "music gendere | pop",
-        "#endtable"
-      ]
-    }
+    {"reg_id": "EAAL00120072026","title": "kenjir","content": ["#table","questtion | awnser","--- | ---","what your name | Atallah kenzie arrie assadiq","ware do you live | kelapanunggal","ware you are born | jakarta","when do you born | 15/01/2011","hobby | lisenig to music and play game","fav food | mie ayam","free time | study and play game","comunity | minecratft cuomunity","good at | playinng game","music gendere | pop","#endtable"]}
 
   ]
 }

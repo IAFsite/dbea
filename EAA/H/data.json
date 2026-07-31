@@ -1,12 +1,6 @@
 {
-  "meta": {
-    "show_as": "Informatika",
-    "wp": "wp.png"
-  },
-
+  "meta": {"show_as": "Informatika","wp": "wp.png"},
   "data": [
-
-
 
   ]
 }

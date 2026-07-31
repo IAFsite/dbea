@@ -1,159 +1,18 @@
 {
-  "meta": {
-    "show_as": "Other file",
-    "wp": "wp.png"
-  },
-
+  "meta": {"show_as": "Other file","wp": "wp.png"},
   "data": [
-
-    {
-      "reg_id": "EAAA00114072026",
-      "title": "Note MPLS day 1",
-      "content": [
-        "#image WhatsApp Image 2026-07-14 at 17.11.33.jpeg",
-        "pada hari pertama kita hanya berkenalan dengan murid lain, guru dan staff",
-        "___",
-        "selain itu kita juga di perkenalkan ke enviorment belajar di SAC"
-      ]
-    },
-    {
-      "reg_id": "EAAA00214072026",
-      "title": "Nametag MPLS",
-      "content": [
-        "#image Screenshot 2026-07-14 173045.png",
-        "Nama lengkap : Hatala Bagaskara Bevan Ramon",
-        "___",
-        "Nama Panggilan : Bevan/Hatala/Furru",
-        "___",
-        "Kelas : 10",
-        "___",
-        "tgl lahir : 27/06/2011",
-        "___",
-        "Sekolah asal : Sekolah Alam Bekasi"
-      ]
-    },
-    {
-      "reg_id": "EAAA00315072026",
-      "title": "Panca wulia",
-      "content": [
-        "cagur - sehat jasmani dan rohani serta dapat menjaga emosi",
-        "___",
-        "baguer - brahlak mulia dan peduli terhadap sesama dan lingkungan",
-        "___",
-        "bener - berpikir keritis, jujur, disiplin dan bertanggung jawab",
-        "___",
-        "pinter -",
-        "___",
-        "singer"
-      ]
-    },
-    {
-  "reg_id": "EAAA00415072026",
-  "title": "BUKU PANDUAN & TATA TERTIB SISWA 2026 2027",
-  "content": [
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-01.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-02.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-03.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-04.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-05.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-06.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-07.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-08.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-09.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-10.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-11.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-12.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-13.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-14.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-15.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-16.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-17.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-18.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-19.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-20.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-21.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-22.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-23.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-24.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-25.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-26.png",
-  "#image BUKUPANDUANTATATERTIBSISWA20262027-27.png"
-]
-},
-    {
-      "reg_id": "EAAA00515072026",
-      "title": "time tabel",
-      "content": [
-        "#delet"
-      ]
-    },    
-    {
-      "reg_id": "EAAA00615072026",
-      "title": "Note MPLS day 2",
-      "content": [
-        "hari ini kita di perkenalkan ke materi dan visi misi SAC",
-        "___",
-        "selain itu kami juga di perkenalkan ke mentor",
-        "___",
-        "lalu ada penjelasan aturan dan sistem poin",
-        "___",
-        "tadi ketinggalan ada kalender akademik juga",
-        "___",
-        "di jam terakhir ada perkenalan KTI"
-      ]
-    },
-        {
-      "reg_id": "EAAA00715072026",
-      "title": "buku mpls",
-      "content": [
-        "#empty"
-      ]
-    },
-    {
-      "reg_id": "EAAA00815072026",
-      "title": "tiny habit",
-      "content": [
-        "#delet"
-      ]
-    },
-    {
-      "reg_id": "EAAA00930072026",
-      "title": "buku mpls",
-      "content": [
-        "#empty"
-      ]
-    },
-    {
-      "reg_id": "EAAA01030072026",
-      "title": "buku mpls",
-      "content": [
-        "#empty"
-      ]
-    },
-    {
-      "reg_id": "EAAA01130072026",
-      "title": "buku mpls",
-      "content": [
-        "#empty"
-      ]
-    },
-    {
-      "reg_id": "EAAA01230072026",
-      "title": "Sejarah Peramuka Dunia",
-      "content": [
-        "#center",
-        "#h1 awal mula dan perkemahan pertama",
-        "Pada tahun 1907 Robert Baden-powell mengadakan perkemahan selama 8 hari di Pulau Brownesa, Dosret, inggris, lalu pada tahun 1908 ia menulis sebuah buku legendaris berujudl *Scouting for Boys* yang menjadi panduan utama bagi gerakan kepanduan dan buku beserta ide ini menyebar ke seluruh dunia dan menjadi pemicu berdirinya organisasi kepanduan",
-        "___",
-        "#h1 Perkembangan Organisasi Lanjutan",
-        "pada tahun 1912 dibentuk organisasi kepanduan untuk putri benrma *Girl Guides* dengan bantuan Agnes Baden-Powell, dan 4 tahun kemudian pada tahun 1916 di dirikan kelompok pramuka siaga dengan nama *Cub* atau *anak serigala* dan 2 tahun setelah itu ada lagi kelompok *Rover Scout* untuk usia penegak/pandega",
-        "___",
-        "#h1 jambore pertama di dunia",
-        "pada tahun 1920 jambore pertama di dunia di selanggarkan di Olympia Hall, London diikuti oleh perwakilan dari 27 hingga 34 negara, dan dalam acara atersebut **Bapak Pandu Sedunia** Robert Baden-Powel resmi di nobatkan sebagai *Chief Scout of the World*",
-        "#endalign"
-
-      ]
-    }
-
+    {"reg_id": "EAAA00114072026","title": "Note MPLS day 1","content": ["#image WhatsApp Image 2026-07-14 at 17.11.33.jpeg","pada hari pertama kita hanya berkenalan dengan murid lain, guru dan staff","___","selain itu kita juga di perkenalkan ke enviorment belajar di SAC"]},
+    {"reg_id": "EAAA00214072026","title": "Nametag MPLS","content": ["#image Screenshot 2026-07-14 173045.png","Nama lengkap : Hatala Bagaskara Bevan Ramon","___","Nama Panggilan : Bevan/Hatala/Furru","___","Kelas : 10","___","tgl lahir : 27/06/2011","___","Sekolah asal : Sekolah Alam Bekasi"]},
+    {"reg_id": "EAAA00315072026","title": "Panca wulia","content": ["cagur - sehat jasmani dan rohani serta dapat menjaga emosi","___","baguer - brahlak mulia dan peduli terhadap sesama dan lingkungan","___","bener - berpikir keritis, jujur, disiplin dan bertanggung jawab","___","pinter -","___","singer"]},
+    {"reg_id": "EAAA00415072026","title": "BUKU PANDUAN & TATA TERTIB SISWA 2026 2027","content": ["#image BUKUPANDUANTATATERTIBSISWA20262027-01.png","#image BUKUPANDUANTATATERTIBSISWA20262027-02.png","#image BUKUPANDUANTATATERTIBSISWA20262027-03.png","#image BUKUPANDUANTATATERTIBSISWA20262027-04.png","#image BUKUPANDUANTATATERTIBSISWA20262027-05.png","#image BUKUPANDUANTATATERTIBSISWA20262027-06.png","#image BUKUPANDUANTATATERTIBSISWA20262027-07.png","#image BUKUPANDUANTATATERTIBSISWA20262027-08.png","#image BUKUPANDUANTATATERTIBSISWA20262027-09.png","#image BUKUPANDUANTATATERTIBSISWA20262027-10.png","#image BUKUPANDUANTATATERTIBSISWA20262027-11.png","#image BUKUPANDUANTATATERTIBSISWA20262027-12.png","#image BUKUPANDUANTATATERTIBSISWA20262027-13.png","#image BUKUPANDUANTATATERTIBSISWA20262027-14.png","#image BUKUPANDUANTATATERTIBSISWA20262027-15.png","#image BUKUPANDUANTATATERTIBSISWA20262027-16.png","#image BUKUPANDUANTATATERTIBSISWA20262027-17.png","#image BUKUPANDUANTATATERTIBSISWA20262027-18.png","#image BUKUPANDUANTATATERTIBSISWA20262027-19.png","#image BUKUPANDUANTATATERTIBSISWA20262027-20.png","#image BUKUPANDUANTATATERTIBSISWA20262027-21.png","#image BUKUPANDUANTATATERTIBSISWA20262027-22.png","#image BUKUPANDUANTATATERTIBSISWA20262027-23.png","#image BUKUPANDUANTATATERTIBSISWA20262027-24.png","#image BUKUPANDUANTATATERTIBSISWA20262027-25.png","#image BUKUPANDUANTATATERTIBSISWA20262027-26.png","#image BUKUPANDUANTATATERTIBSISWA20262027-27.png"]},
+    {"reg_id": "EAAA00515072026","title": "time tabel","content": ["#delet"]},    
+    {"reg_id": "EAAA00615072026","title": "Note MPLS day 2","content": ["hari ini kita di perkenalkan ke materi dan visi misi SAC","___","selain itu kami juga di perkenalkan ke mentor","___","lalu ada penjelasan aturan dan sistem poin","___","tadi ketinggalan ada kalender akademik juga","___","di jam terakhir ada perkenalan KTI"]},
+    {"reg_id": "EAAA00715072026","title": "buku mpls","content": ["#empty"]},
+    {"reg_id": "EAAA00815072026","title": "tiny habit","content": ["#delet"]},
+    {"reg_id": "EAAA00930072026","title": "buku mpls","content": ["#empty"]},
+    {"reg_id": "EAAA01030072026","title": "buku mpls","content": ["#empty"]},
+    {"reg_id": "EAAA01130072026","title": "buku mpls","content": ["#empty"]},
+    {"reg_id": "EAAA01230072026","title": "Sejarah Peramuka Dunia","content": ["#center","#h1 awal mula dan perkemahan pertama","Pada tahun 1907 Robert Baden-powell mengadakan perkemahan selama 8 hari di Pulau Brownesa, Dosret, inggris, lalu pada tahun 1908 ia menulis sebuah buku legendaris berujudl *Scouting for Boys* yang menjadi panduan utama bagi gerakan kepanduan dan buku beserta ide ini menyebar ke seluruh dunia dan menjadi pemicu berdirinya organisasi kepanduan","___","#h1 Perkembangan Organisasi Lanjutan","pada tahun 1912 dibentuk organisasi kepanduan untuk putri benrma *Girl Guides* dengan bantuan Agnes Baden-Powell, dan 4 tahun kemudian pada tahun 1916 di dirikan kelompok pramuka siaga dengan nama *Cub* atau *anak serigala* dan 2 tahun setelah itu ada lagi kelompok *Rover Scout* untuk usia penegak/pandega","___","#h1 jambore pertama di dunia","pada tahun 1920 jambore pertama di dunia di selanggarkan di Olympia Hall, London diikuti oleh perwakilan dari 27 hingga 34 negara, dan dalam acara atersebut **Bapak Pandu Sedunia** Robert Baden-Powel resmi di nobatkan sebagai *Chief Scout of the World*","#endalign"]},
+    {"reg_id": "EAAA01331072026","title": "email sekolah","content": ["#table","alamat email | password","--- | ---","0926270202.hatala.bagaskara@sekolahalamcikeas.sch.id | FTHR-0001P-TYPE","#endtable"]}
   ]
 }

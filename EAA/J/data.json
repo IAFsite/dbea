@@ -1,27 +1,7 @@
 {
-  "meta": {
-    "show_as": "kimia tugas",
-    "wp": "wp.png"
-  },
-
+  "meta": {"show_as": "kimia tugas","wp": "wp.png"},
   "data": [
-
-    {
-      "reg_id": "EAAJ00128072026",
-      "title": "tugas",
-      "content": [
-        "#image EAA/J/TUGASKIMIA10SAC26-27-1.jpg",
-        "",
-        "#h1 1. alat di mesin kopi",
-        "- spiritus",
-        "- tabung reaksi",
-        "- corong kaca",
-        "",
-        "#h2 2. lambang",
-        "ah elah pantat gw sakit dududk terus fuck this shit gw mau makan bye"
-
-      ]
-    }
+    {"reg_id": "EAAJ00128072026","title": "tugas","content": ["#image UGASKIMIA10SAC26-27-1.jpg","","#h1 1. alat di mesin kopi","- spiritus","- tabung reaksi","- corong kaca","","#h2 2. lambang","ah elah pantat gw sakit dududk terus fuck this shit gw mau makan bye"]}
 
   ]
 }
