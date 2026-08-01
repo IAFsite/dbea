@@ -1,7 +1,7 @@
 {
   "meta": {"show_as": "Wira usaha","wp": "wp.png"},
   "data": [
-    {"reg_id": "EAAB00120072026","title": "test","content": ["#empty"]}
+    {"reg_id": "EAAB00120072026","title": "test","status": "active","content": ["#empty"]}
 
   ]
 }

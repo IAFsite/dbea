@@ -1,9 +1,9 @@
 {
   "meta": {"show_as": "devlog","wp": "wp.png"},
   "data": [
-    {"reg_id": "DOAB00130072026","title": "devlog #1","content": "okey dawg seharusnya gw bikin ini dari kapan tau but hey gw baru bikin sekarnag jadi di sini ya lu tau lah dev log kek idk go figure your self ini fungsi nya apa"},
-    {"reg_id": "DOAB00230072026","title": "eduarc 1 history","content": ["okey jujur gw ga begitu inget soal eduarc 1 jadi ya ini recap se inget gw","#table","version | what update","--- | ---","EDUARC 1.0.0 | ini EDUARC pertama literly cuman text dan foto video audio dan beberapa markdown lain","EDUARC 1.0.1 | kita menambahkan vitur delet empty dan eror","EDUARC 1.1.0 | markdown kek tabel h1 h2 dll","#endtable"]},
-    {"reg_id": "DOAB00330072026","title": "incoming update","content": ["soooo yeah ini dev team IAF kita saat ini lagi merencanakan EDUARC 2.0 jadi kita mau bikin cdn proper ini pastu susah tapi kita lagi mau usahakan ini kemungkinan bakal jadi proyek yang panjang maybe 3 bulan saat ini kita masih perencanaan kita bakal liat lagi hsilnya gimana so yeah kami team dev IAF sekian terimaksih"]},
-    {"reg_id": "DOAB00431072026","title": "eduarc 1.1.2","content": ["okey dalam persiapan eduarc 2.0 kami sudah nge push persiapan cdn update di push pada 0820 31/07/2026"]}
+    {"reg_id": "DOAB00130072026","title": "devlog #1","status": "active","content": "okey dawg seharusnya gw bikin ini dari kapan tau but hey gw baru bikin sekarnag jadi di sini ya lu tau lah dev log kek idk go figure your self ini fungsi nya apa"},
+    {"reg_id": "DOAB00230072026","title": "eduarc 1 history","status": "active","content": ["okey jujur gw ga begitu inget soal eduarc 1 jadi ya ini recap se inget gw","#table","version | what update","--- | ---","EDUARC 1.0.0 | ini EDUARC pertama literly cuman text dan foto video audio dan beberapa markdown lain","EDUARC 1.0.1 | kita menambahkan vitur delet empty dan eror","EDUARC 1.1.0 | markdown kek tabel h1 h2 dll","#endtable"]},
+    {"reg_id": "DOAB00330072026","title": "incoming update","status": "active","content": ["soooo yeah ini dev team IAF kita saat ini lagi merencanakan EDUARC 2.0 jadi kita mau bikin cdn proper ini pastu susah tapi kita lagi mau usahakan ini kemungkinan bakal jadi proyek yang panjang maybe 3 bulan saat ini kita masih perencanaan kita bakal liat lagi hsilnya gimana so yeah kami team dev IAF sekian terimaksih"]},
+    {"reg_id": "DOAB00431072026","title": "eduarc 1.1.2","status": "active","content": ["okey dalam persiapan eduarc 2.0 kami sudah nge push persiapan cdn update di push pada 0820 31/07/2026"]}
   ]
 }
