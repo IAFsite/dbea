@@ -69,9 +69,51 @@
           "wp": "wp/a.png"
         },
         {
-          "id": "L",
-          "show_as": "b.inggris",
-          "short": "bahasa inggris",
+          "id": "M",
+          "show_as": "Seni",
+          "short": "kesenian",
+          "wp": "wp/a.png"
+        },
+        {
+          "id": "N",
+          "show_as": "Fisika",
+          "short": "albert einstin",
+          "wp": "wp/a.png"
+        },
+        {
+          "id": "O",
+          "show_as": "tufel",
+          "short": "inggris",
+          "wp": "wp/a.png"
+        },
+        {
+          "id": "P",
+          "show_as": "tufel vob",
+          "short": "vocabulary",
+          "wp": "wp/a.png"
+        },
+        {
+          "id": "Q",
+          "show_as": "kebangsaan",
+          "short": "PPKn",
+          "wp": "wp/a.png"
+        },
+        {
+          "id": "R",
+          "show_as": "geo catetan",
+          "short": "catetan geografi",
+          "wp": "wp/a.png"
+        },
+        {
+          "id": "S",
+          "show_as": "geo tug",
+          "short": "tugas geografi",
+          "wp": "wp/a.png"
+        },
+        {
+          "id": "T",
+          "show_as": "Bio tek",
+          "short": "biotehnologi",
           "wp": "wp/a.png"
         }
 
