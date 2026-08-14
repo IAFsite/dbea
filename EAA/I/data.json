@@ -1,7 +1,7 @@
 {
   "meta": {"show_as": "kimia catetan","wp": "wp.png"},
   "data": [
-    {"reg_id": "EAAI00128072026","status": "active","title": "pengenalan","content": ["#image PowerPointPRKimia10AEd.2019-16.jpg","#image PowerPointPRKimia10AEd.2019-17.jpg","#image PowerPointPRKimia10AEd.2019-18.jpg","#image PowerPointPRKimia10AEd.2019-19.jpg","#image PowerPointPRKimia10AEd.2019-20.jpg","#image PowerPointPRKimia10AEd.2019-21.jpg"]}
-
+    {"reg_id": "EAAI00128072026","status": "active","title": "pengenalan","content": ["#image PowerPointPRKimia10AEd.2019-16.jpg","#image PowerPointPRKimia10AEd.2019-17.jpg","#image PowerPointPRKimia10AEd.2019-18.jpg","#image PowerPointPRKimia10AEd.2019-19.jpg","#image PowerPointPRKimia10AEd.2019-20.jpg","#image PowerPointPRKimia10AEd.2019-21.jpg"]},
+    {"reg_id": "EAAI00212082026","status": "active","title": "masa atom","content": ["masa atom relatif merupakan perbandingan masa atom terhadap masa atom C-12","___","#h1 Contoh rumus","pksigen di alam terdiri atas 3 isotop dengan kelimpahan sebagai berikut","#table","jenis | nomor masa | nomor atom | kelimpahan","--- | --- | --- | ---","O | 16 | 8 | 99,76%","O | 17 | 8 | 0.04%"," O | 18 | 8 | 0.2%","#endtable","Ar = (99,76 x 16) + (0.04 x 17) + (0.2 x 18) / 100"]}
   ]
 }
