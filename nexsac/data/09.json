@@ -1,0 +1,156 @@
+{
+    "generation": {
+        "id": "c",
+        "name": "ANGKATAN 09",
+        "description": "Daftar murid angkatan 09 Sekolah Alam Cikeas."
+    },
+
+    "students": [
+        {
+            "id": "09001",
+            "name": "AIMAN JAUZI KURDI",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09002",
+            "name": "AIMEE RASIIKHAH DWIBALQIS",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09003",
+            "name": "ALEEKA ATTHAYA ANINDYA NARENDRA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09004",
+            "name": "AMARI AZKA RISTIYASA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09005",
+            "name": "ATALLAH KENZIE ARRIE ASSADIQ",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09006",
+            "name": "AZKA RIZQUSYANDANA FARID",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09007",
+            "name": "AZZALEA SHAHEERA ADRIANA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09008",
+            "name": "BAGAS JUDHISTIRA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09009",
+            "name": "CHERYL ANEIRA AZARINE SULISTYANTO",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09010",
+            "name": "FARAH RAMADHANI YUDHITA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09011",
+            "name": "FARIS HAIDAR ABINAWA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09012",
+            "name": "FAWAZ ALI",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09013",
+            "name": "HAIDAR ABIMANYU",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09014",
+            "name": "HATALA BAGASKARA BEVAN RAMON",
+            "photo": null,
+
+            "research": []
+        },
+        {
+            "id": "09015",
+            "name": "JIHANITRA ZOVITA RAZQIA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09016",
+            "name": "LEONARD CHRIST EVAN SINGGIH",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09017",
+            "name": "M. FATHUL RAYYAN S",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09018",
+            "name": "MUHAMMAD DANISH ARFA UNTORO",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09019",
+            "name": "MUHAMMAD GIAZZI AZKARA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09020",
+            "name": "RAIHAN RIZQY RAMADHAN",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "09021",
+            "name": "SYAFINA ALMAHYRA",
+            "photo": null,
+            "research": []
+        }
+    ]
+}

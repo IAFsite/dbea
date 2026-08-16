@@ -1,0 +1,86 @@
+{
+    "generation": {
+        "id": "00",
+        "name": "ANGKATAN 00",
+        "description": "Daftar murid angkatan 09 Sekolah Alam Cikeas."
+    },
+
+    "students": [
+        {
+            "id": "00001",
+            "name": "Deu FP00111082025",
+            "photo": null,
+            "research": [
+                {
+                    "id": "0000101",
+                    "type": "a",
+                    "title": "Analisis Pengaruh Posisi IMU Tracker terhadap Akurasi Full Body Tracking",
+                    "subtitle": "Penelitian Sekolah Alam Cikeas",
+                    "mentor": "Bapak Ahmad",
+                    "year": "2026",
+                    "content": ["#h1 Abstrak\n\nPenelitian ini bertujuan untuk menganalisis pengaruh posisi pemasangan IMU Tracker terhadap akurasi Full Body Tracking.\n\nPengujian dilakukan menggunakan beberapa konfigurasi pemasangan tracker pada sistem SlimeVR.\n\n___\n\n#h1 Dokumentasi\n\n#img asset/logo/image2.png\n\n#img assets/photo2.jpg\n\n#vid assets/video1.webm\n\n___\n\n#h1 Dokumen Penelitian\n\n#file PaktaIntegritasTataTertib2026-2027_SMA.pdf"]
+                },
+                {
+                    "id": "0000102",
+                    "type": "b",
+                    "title": "Analisis Pengaruh Posisi IMU Tracker terhadap Akurasi Full Body Tracking",
+                    "subtitle": "Penelitian Sekolah Alam Cikeas",
+                    "mentor": "Bapak Ahmad",
+                    "year": "2026",
+                    "content": ["#h1 Abstrak\n\nPenelitian ini bertujuan untuk menganalisis pengaruh posisi pemasangan IMU Tracker terhadap akurasi Full Body Tracking.\n\nPengujian dilakukan menggunakan beberapa konfigurasi pemasangan tracker pada sistem SlimeVR.\n\n___\n\n#h1 Dokumentasi\n\n#img asset/logo/image2.png\n\n#img assets/photo2.jpg\n\n#vid assets/video1.webm\n\n___\n\n#h1 Dokumen Penelitian\n\n#file PaktaIntegritasTataTertib2026-2027_SMA.pdf"]
+                }
+            ]
+        },
+        {
+            "id": "00002",
+            "name": "Alpha FP00227102025",
+            "photo": null,
+            "research": [
+                {
+                    "id": "0000201",
+                    "type": "a",
+                    "title": "Analisis Pengaruh Posisi IMU Tracker terhadap Akurasi Full Body Tracking",
+                    "subtitle": "Penelitian Sekolah Alam Cikeas",
+                    "mentor": "Bapak Ahmad",
+                    "year": "2026",
+                    "content": ["#h1 Abstrak\n\nPenelitian ini bertujuan untuk menganalisis pengaruh posisi pemasangan IMU Tracker terhadap akurasi Full Body Tracking.\n\nPengujian dilakukan menggunakan beberapa konfigurasi pemasangan tracker pada sistem SlimeVR.\n\n___\n\n#h1 Dokumentasi\n\n#img asset/logo/image2.png\n\n#img assets/photo2.jpg\n\n#vid assets/video1.webm\n\n___\n\n#h1 Dokumen Penelitian\n\n#file PaktaIntegritasTataTertib2026-2027_SMA.pdf"]
+                },
+                {
+                    "id": "0000202",
+                    "type": "b",
+                    "title": "Analisis Pengaruh Posisi IMU Tracker terhadap Akurasi Full Body Tracking",
+                    "subtitle": "Penelitian Sekolah Alam Cikeas",
+                    "mentor": "Bapak Ahmad",
+                    "year": "2026",
+                    "content": ["#h1 Abstrak\n\nPenelitian ini bertujuan untuk menganalisis pengaruh posisi pemasangan IMU Tracker terhadap akurasi Full Body Tracking.\n\nPengujian dilakukan menggunakan beberapa konfigurasi pemasangan tracker pada sistem SlimeVR.\n\n___\n\n#h1 Dokumentasi\n\n#img asset/logo/image2.png\n\n#img assets/photo2.jpg\n\n#vid assets/video1.webm\n\n___\n\n#h1 Dokumen Penelitian\n\n#file PaktaIntegritasTataTertib2026-2027_SMA.pdf"]
+                }
+            ]
+        },
+        {
+            "id": "00003",
+            "name": "Felo FP00313112025",
+            "photo": null,
+            "research": [
+                {
+                    "id": "0000301",
+                    "type": "a",
+                    "title": "Analisis Pengaruh Posisi IMU Tracker terhadap Akurasi Full Body Tracking",
+                    "subtitle": "Penelitian Sekolah Alam Cikeas",
+                    "mentor": "Bapak Ahmad",
+                    "year": "2026",
+                    "content": ["#h1 Abstrak\n\nPenelitian ini bertujuan untuk menganalisis pengaruh posisi pemasangan IMU Tracker terhadap akurasi Full Body Tracking.\n\nPengujian dilakukan menggunakan beberapa konfigurasi pemasangan tracker pada sistem SlimeVR.\n\n___\n\n#h1 Dokumentasi\n\n#img asset/logo/image2.png\n\n#img assets/photo2.jpg\n\n#vid assets/video1.webm\n\n___\n\n#h1 Dokumen Penelitian\n\n#file PaktaIntegritasTataTertib2026-2027_SMA.pdf"]
+                },
+                {
+                    "id": "0000302",
+                    "type": "b",
+                    "title": "Analisis Pengaruh Posisi IMU Tracker terhadap Akurasi Full Body Tracking",
+                    "subtitle": "Penelitian Sekolah Alam Cikeas",
+                    "mentor": "Bapak Ahmad",
+                    "year": "2026",
+                    "content": ["#h1 Abstrak\n\nPenelitian ini bertujuan untuk menganalisis pengaruh posisi pemasangan IMU Tracker terhadap akurasi Full Body Tracking.\n\nPengujian dilakukan menggunakan beberapa konfigurasi pemasangan tracker pada sistem SlimeVR.\n\n___\n\n#h1 Dokumentasi\n\n#img asset/logo/image2.png\n\n#img assets/photo2.jpg\n\n#vid assets/video1.webm\n\n___\n\n#h1 Dokumen Penelitian\n\n#file PaktaIntegritasTataTertib2026-2027_SMA.pdf"]
+                }
+            ]
+        }
+
+    ]
+}
