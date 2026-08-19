@@ -1,7 +1,7 @@
 import cv2
 import sys
 
-WIDTH = 400
+WIDTH = 100
 
 cap = cv2.VideoCapture(0)
 
@@ -41,7 +41,7 @@ while True:
     # Karena setiap pixel dibuat 2 lane
     height = max(
         1,
-        int(h / w * WIDTH * 0.45)
+        int(h / w * WIDTH * 1)
     )
 
     frame = cv2.resize(

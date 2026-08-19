@@ -69,6 +69,12 @@
           "wp": "wp/a.png"
         },
         {
+          "id": "L",
+          "show_as": "B.inggris",
+          "short": "a boa o wata",
+          "wp": "wp/a.png"
+        },
+        {
           "id": "M",
           "show_as": "Seni",
           "short": "kesenian",
