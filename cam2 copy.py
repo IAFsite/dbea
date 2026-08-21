@@ -1,7 +1,7 @@
 import cv2
 import sys
 
-WIDTH = 100
+WIDTH = 200
 
 cap = cv2.VideoCapture(0)
 
