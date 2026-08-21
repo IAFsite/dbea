@@ -1,6 +1,6 @@
 {
   "meta": {"show_as": "fsika","wp": "wp.png"},
   "data": [
-    {"reg_id": "EAAN00120082026","status": "active","title": "Besaran","content": ["#h1 Pokok","#table","turunan | simbol turunan | unit | simbol unit","--- | --- | --- | ---","panjang | L | meter | M","massa | m | kilogram | KG","waktu | t | sekon | S","kuat arus listrik | I | Ampere | A","intensitas cahaya | I | Cedela | cd","suhu | T | kelfin | K","jumblah zat | n | mol | mol","#endtable","___","#h1 Turunan","#table","turunan | simbol","--- | ---","kecepatan | v","tegangan listrik | null","gaya | F","usaha | w","daya | p","frequenso | f","Volume | V0","luas | L","berat | null","#endtable"]}
+    {"reg_id": "EAAN00120082026","status": "active","title": "Besaran","content": ["#h1 Pokok","#table","turunan | simbol turunan | unit | simbol unit","--- | --- | --- | ---","panjang | L | meter | M","massa | m | kilogram | KG","waktu | t | sekon | S","kuat arus listrik | I | Ampere | A","intensitas cahaya | I | Cedela | cd","suhu | T | kelfin | K","jumblah zat | n | mol | mol","#endtable","___","#h1 Turunan","#table","turunan | simbol","--- | ---","kecepatan | v","tegangan listrik | null","gaya | F","usaha | w","daya | p","frequenso | f","Volume | V","luas | L","berat | null","#endtable","___","#h1 ketidak pastian nilai dalam pengaturan","1) nilai sekala terkecil","2) ketidak pastian sistem","- kalibrasi","- kesalahan alat","- kesalahan titik nol","kesalahan paralaks","3) ketidak pastian acak","4) keterampilan"]}
   ]
 }
