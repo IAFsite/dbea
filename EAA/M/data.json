@@ -1,6 +1,262 @@
 {
-  "meta": {"show_as": "seni","wp": "wp.png"},
+  "meta": {
+    "show_as": "Seni Musik",
+    "wp": "wp.png"
+  },
   "data": [
-
+    {
+      "reg_id": "EAAM00129092026",
+      "status": "active",
+      "title": "Pengantar Seni Musik",
+      "content": [
+        "#h1 Pengertian Seni Musik",
+        "Seni musik adalah cabang seni yang menggunakan bunyi atau suara yang disusun secara teratur untuk menghasilkan karya yang dapat dinikmati, dimainkan, atau diekspresikan.",
+        "",
+        "#h1 Unsur-unsur Musik",
+        "- Melodi: rangkaian nada yang membentuk sebuah lagu.",
+        "- Ritme: pola panjang-pendek dan kuat-lemah bunyi.",
+        "- Harmoni: perpaduan beberapa nada yang terdengar secara bersamaan.",
+        "- Tempo: cepat atau lambatnya lagu dimainkan.",
+        "- Dinamika: keras atau lembutnya bunyi.",
+        "- Timbre: karakter atau warna suara yang membedakan satu sumber bunyi dengan sumber lainnya.",
+        "",
+        "#h1 Fungsi Musik",
+        "- Hiburan.",
+        "- Ekspresi diri.",
+        "- Media komunikasi.",
+        "- Pengiring tari atau pertunjukan.",
+        "- Bagian dari upacara atau kegiatan budaya.",
+        "- Media pendidikan."
+      ]
+    },
+    {
+      "reg_id": "EAAM00229092026",
+      "status": "active",
+      "title": "Nada dan Tangga Nada",
+      "content": [
+        "#h1 Nada",
+        "Nada adalah bunyi yang memiliki frekuensi tertentu sehingga dapat dibedakan tinggi dan rendahnya.",
+        "",
+        "#h1 Tangga Nada",
+        "Tangga nada adalah susunan nada yang disusun secara berurutan berdasarkan pola tertentu.",
+        "",
+        "#h2 Tangga Nada Diatonis",
+        "Tangga nada diatonis terdiri dari tujuh nada pokok.",
+        "Contoh: C - D - E - F - G - A - B - C.",
+        "",
+        "#h2 Tangga Nada Mayor",
+        "Tangga nada mayor umumnya memberikan kesan cerah, kuat, atau bersemangat.",
+        "",
+        "#h2 Tangga Nada Minor",
+        "Tangga nada minor umumnya memberikan kesan lebih tenang, sedih, atau melankolis."
+      ]
+    },
+    {
+      "reg_id": "EAAM00329092026",
+      "status": "active",
+      "title": "Ritme, Birama, dan Tempo",
+      "content": [
+        "#h1 Ritme",
+        "Ritme adalah pola durasi dan tekanan bunyi dalam musik.",
+        "",
+        "#h1 Birama",
+        "Birama adalah pengelompokan ketukan secara teratur dalam sebuah lagu.",
+        "",
+        "#table",
+        "Birama | Keterangan",
+        "--- | ---",
+        "2/4 | Dua ketukan dalam setiap birama",
+        "3/4 | Tiga ketukan dalam setiap birama",
+        "4/4 | Empat ketukan dalam setiap birama",
+        "6/8 | Enam ketukan not seperdelapan dalam setiap birama",
+        "#endtable",
+        "",
+        "#h1 Tempo",
+        "Tempo menunjukkan cepat atau lambatnya sebuah lagu.",
+        "",
+        "#table",
+        "Istilah | Arti umum",
+        "--- | ---",
+        "Largo | Sangat lambat",
+        "Adagio | Lambat",
+        "Andante | Sedang seperti langkah kaki",
+        "Moderato | Sedang",
+        "Allegro | Cepat",
+        "Presto | Sangat cepat",
+        "#endtable"
+      ]
+    },
+    {
+      "reg_id": "EAAM00429092026",
+      "status": "active",
+      "title": "Notasi Musik",
+      "content": [
+        "#h1 Notasi",
+        "Notasi adalah sistem penulisan musik yang digunakan untuk merepresentasikan nada, ritme, durasi, dan unsur musik lainnya.",
+        "",
+        "#h2 Notasi Angka",
+        "Notasi angka menggunakan angka 1 sampai 7 untuk mewakili nada.",
+        "",
+        "1 = do",
+        "2 = re",
+        "3 = mi",
+        "4 = fa",
+        "5 = sol",
+        "6 = la",
+        "7 = si",
+        "",
+        "#h2 Notasi Balok",
+        "Notasi balok menggunakan simbol-simbol musik yang ditulis pada paranada.",
+        "",
+        "#h2 Paranada",
+        "Paranada terdiri dari lima garis dan empat ruang yang digunakan sebagai tempat menuliskan notasi balok."
+      ]
+    },
+    {
+      "reg_id": "EAAM00529092026",
+      "status": "active",
+      "title": "Dinamika dan Ekspresi Musik",
+      "content": [
+        "#h1 Dinamika",
+        "Dinamika menunjukkan tingkat keras dan lembutnya suara dalam musik.",
+        "",
+        "#table",
+        "Simbol | Arti",
+        "--- | ---",
+        "pp | Sangat lembut",
+        "p | Lembut",
+        "mp | Agak lembut",
+        "mf | Agak keras",
+        "f | Keras",
+        "ff | Sangat keras",
+        "#endtable",
+        "",
+        "#h1 Ekspresi",
+        "Ekspresi musik adalah cara pemain atau penyanyi menyampaikan karakter dan perasaan dari sebuah karya musik.",
+        "",
+        "Ekspresi dapat dipengaruhi oleh tempo, dinamika, artikulasi, phrasing, dan karakter suara."
+      ]
+    },
+    {
+      "reg_id": "EAAM00629092026",
+      "status": "active",
+      "title": "Alat Musik dan Sumber Bunyi",
+      "content": [
+        "#h1 Klasifikasi Alat Musik",
+        "Alat musik dapat dikelompokkan berdasarkan sumber bunyi atau cara menghasilkan bunyi.",
+        "",
+        "#table",
+        "Jenis | Sumber/cara menghasilkan bunyi | Contoh",
+        "--- | --- | ---",
+        "Idiophone | Badan alat musik bergetar | Angklung, gong",
+        "Membranophone | Selaput atau membran bergetar | Kendang, drum",
+        "Chordophone | Senar atau dawai bergetar | Gitar, biola",
+        "Aerophone | Kolom udara bergetar | Seruling, terompet",
+        "Electrophone | Menggunakan sistem elektronik untuk menghasilkan atau memperkuat bunyi | Synthesizer",
+        "#endtable",
+        "",
+        "#h1 Alat Musik Tradisional Indonesia",
+        "Indonesia memiliki banyak alat musik tradisional yang menjadi bagian dari kebudayaan daerah, seperti angklung dari Jawa Barat, gamelan dari Jawa dan Bali, sasando dari Nusa Tenggara Timur, serta kolintang dari Sulawesi Utara."
+      ]
+    },
+    {
+      "reg_id": "EAAM00729092026",
+      "status": "active",
+      "title": "Musik Tradisional dan Musik Modern",
+      "content": [
+        "#h1 Musik Tradisional",
+        "Musik tradisional berkembang dalam lingkungan budaya tertentu dan biasanya memiliki hubungan dengan tradisi masyarakat setempat.",
+        "",
+        "#h1 Musik Modern",
+        "Musik modern berkembang mengikuti perubahan teknologi, budaya, dan gaya bermusik. Musik modern dapat menggunakan instrumen elektronik, perangkat digital, serta teknik produksi musik modern.",
+        "",
+        "#h1 Perbedaan",
+        "Perbedaan musik tradisional dan modern dapat dilihat dari konteks budaya, instrumen, teknik penyajian, serta perkembangan teknologi yang digunakan.",
+        "",
+        "Keduanya tetap dapat berkembang dan saling memengaruhi."
+      ]
+    },
+    {
+      "reg_id": "EAAM00829092026",
+      "status": "active",
+      "title": "Vokal dan Teknik Bernyanyi",
+      "content": [
+        "#h1 Vokal",
+        "Vokal adalah suara manusia yang digunakan sebagai sumber bunyi dalam musik.",
+        "",
+        "#h1 Teknik Dasar Bernyanyi",
+        "- Pernapasan: mengatur penggunaan udara ketika bernyanyi.",
+        "- Artikulasi: kejelasan pengucapan kata.",
+        "- Intonasi: ketepatan tinggi-rendah nada.",
+        "- Resonansi: pemanfaatan ruang resonansi untuk menghasilkan suara yang lebih baik.",
+        "- Phrasing: pengaturan pemenggalan kalimat musik.",
+        "",
+        "#h1 Pemanasan",
+        "Sebelum bernyanyi, lakukan pemanasan suara secara ringan dan bertahap agar suara siap digunakan."
+      ]
+    },
+    {
+      "reg_id": "EAAM00929092026",
+      "status": "active",
+      "title": "Musik Ansambel",
+      "content": [
+        "#h1 Pengertian Ansambel",
+        "Ansambel adalah kegiatan memainkan musik secara bersama-sama dengan menggunakan beberapa pemain atau instrumen.",
+        "",
+        "#h2 Ansambel Sejenis",
+        "Ansambel sejenis menggunakan instrumen yang sama atau satu kelompok instrumen yang serupa.",
+        "",
+        "#h2 Ansambel Campuran",
+        "Ansambel campuran menggunakan berbagai jenis instrumen dengan fungsi yang berbeda.",
+        "",
+        "#h1 Hal yang Perlu Diperhatikan",
+        "- Kekompakan.",
+        "- Ketepatan tempo.",
+        "- Ketepatan ritme.",
+        "- Keseimbangan volume.",
+        "- Kemampuan mengikuti aba-aba atau pemimpin musik."
+      ]
+    },
+    {
+      "reg_id": "EAAM01029092026",
+      "status": "active",
+      "title": "Musik dalam Kehidupan dan Budaya",
+      "content": [
+        "#h1 Musik sebagai Bagian dari Budaya",
+        "Musik dapat menjadi bagian dari identitas budaya suatu masyarakat dan digunakan dalam berbagai kegiatan sosial.",
+        "",
+        "#h1 Fungsi Musik dalam Masyarakat",
+        "- Mengiringi upacara atau tradisi.",
+        "- Menjadi sarana hiburan.",
+        "- Menyampaikan pesan.",
+        "- Memperkuat identitas budaya.",
+        "- Menjadi media ekspresi dan kreativitas.",
+        "",
+        "Perkembangan teknologi membuat musik semakin mudah direkam, diproduksi, didistribusikan, dan didengarkan melalui media digital."
+      ]
+    },
+    {
+      "reg_id": "EAAM01129092026",
+      "status": "active",
+      "title": "Rangkuman Seni Musik Semester 1 - Catch Up",
+      "content": [
+        "#h1 Materi yang Perlu Dikuasai",
+        "1. Pengertian dan fungsi seni musik.",
+        "2. Unsur-unsur musik.",
+        "3. Nada dan tangga nada.",
+        "4. Ritme dan birama.",
+        "5. Tempo.",
+        "6. Notasi angka dan notasi balok.",
+        "7. Dinamika dan ekspresi.",
+        "8. Klasifikasi alat musik.",
+        "9. Musik tradisional dan modern.",
+        "10. Teknik dasar vokal.",
+        "11. Musik ansambel.",
+        "12. Fungsi musik dalam kehidupan dan budaya.",
+        "",
+        "#h1 Inti Materi",
+        "Musik tersusun dari berbagai unsur seperti melodi, ritme, harmoni, tempo, dinamika, dan timbre. Pemahaman unsur-unsur tersebut menjadi dasar untuk mendengarkan, memainkan, menciptakan, dan mengapresiasi musik."
+      ]
+    }
   ]
 }

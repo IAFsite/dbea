@@ -1,7 +1,310 @@
 {
-  "meta": {"show_as": "B.inggris","wp": "wp.png"},
+  "meta": {
+    "show_as": "B.inggris",
+    "wp": "wp.png"
+  },
   "data": [
-    {"reg_id": "EAAL00120072026","status": "active","title": "kenjir","content": ["#table","questtion | awnser","--- | ---","what your name | Atallah kenzie arrie assadiq","ware do you live | kelapanunggal","ware you are born | jakarta","when do you born | 15/01/2011","hobby | lisenig to music and play game","fav food | mie ayam","free time | study and play game","comunity | minecratft cuomunity","good at | playinng game","music gendere | pop","#endtable"]}
-
+    {
+      "reg_id": "EAAL00120072026",
+      "status": "active",
+      "title": "Kenjir",
+      "content": [
+        "#table",
+        "Question | Answer",
+        "--- | ---",
+        "What is your name? | Atallah Kenzie Arrie Assadiq",
+        "Where do you live? | Kelapanunggal",
+        "Where were you born? | Jakarta",
+        "When were you born? | 15/01/2011",
+        "What is your hobby? | Listening to music and playing games",
+        "What is your favorite food? | Mie ayam",
+        "What do you do in your free time? | Studying and playing games",
+        "What community are you part of? | Minecraft community",
+        "What are you good at? | Playing games",
+        "What music genre do you like? | Pop",
+        "#endtable"
+      ]
+    },
+    {
+      "reg_id": "EAAL00220082026",
+      "status": "active",
+      "title": "Reading Skill 1-2",
+      "content": [
+        "#h1 Reading Skill",
+        "Reading skill membantu memahami informasi dari teks bahasa Inggris dengan mencari ide utama, informasi rinci, dan makna kata berdasarkan konteks.",
+        "",
+        "#h2 Main Idea",
+        "Main idea adalah gagasan utama yang menjadi inti dari sebuah paragraf atau teks.",
+        "",
+        "#h2 Supporting Details",
+        "Supporting details adalah informasi yang menjelaskan atau mendukung main idea.",
+        "",
+        "#h2 Context Clues",
+        "Context clues adalah petunjuk dari kata atau kalimat di sekitar sebuah kata untuk membantu menentukan maknanya.",
+        "",
+        "#h2 Tips",
+        "- Baca judul terlebih dahulu.",
+        "- Cari kata kunci.",
+        "- Perhatikan kalimat pertama dan terakhir paragraf.",
+        "- Jangan langsung menerjemahkan setiap kata.",
+        "- Gunakan konteks untuk menebak arti kata yang belum diketahui."
+      ]
+    },
+    {
+      "reg_id": "EAAL00320082026",
+      "status": "active",
+      "title": "English Reading Habit - Fact Finding",
+      "content": [
+        "#h1 Fact Finding",
+        "Fact finding adalah kegiatan menemukan informasi faktual yang terdapat di dalam teks.",
+        "",
+        "#h2 Fact",
+        "A fact is information that can be checked or verified.",
+        "",
+        "#h2 Finding Information",
+        "Untuk menemukan fakta, cari informasi seperti nama, tempat, waktu, jumlah, kegiatan, dan kejadian yang disebutkan secara jelas dalam teks.",
+        "",
+        "#h2 Reading Strategy",
+        "1. Baca pertanyaan terlebih dahulu.",
+        "2. Cari keyword dari pertanyaan di dalam teks.",
+        "3. Baca kalimat di sekitar keyword.",
+        "4. Pastikan jawaban sesuai dengan informasi dalam teks."
+      ]
+    },
+    {
+      "reg_id": "EAAL00410092026",
+      "status": "active",
+      "title": "Reading Skill 3-5",
+      "content": [
+        "#h1 Reading Comprehension",
+        "Reading comprehension adalah kemampuan memahami isi, tujuan, dan informasi yang terdapat dalam teks.",
+        "",
+        "#h2 Skimming",
+        "Skimming adalah membaca cepat untuk mendapatkan gambaran umum atau main idea dari teks.",
+        "",
+        "#h2 Scanning",
+        "Scanning adalah membaca dengan mencari informasi tertentu, seperti nama, tanggal, tempat, atau angka.",
+        "",
+        "#h2 Inference",
+        "Inference adalah kesimpulan yang dapat dibuat berdasarkan informasi yang terdapat dalam teks meskipun tidak selalu dinyatakan secara langsung.",
+        "",
+        "#h2 Vocabulary in Context",
+        "Arti sebuah kata dapat dipahami dengan melihat kalimat atau informasi di sekitarnya."
+      ]
+    },
+    {
+      "reg_id": "EAAL00509092026",
+      "status": "active",
+      "title": "Teks Eksposisi",
+      "content": [
+        "#h1 Expository Text",
+        "Expository text adalah teks yang bertujuan menjelaskan atau memberikan informasi mengenai suatu topik secara jelas dan logis.",
+        "",
+        "#h2 Struktur Umum",
+        "- Thesis atau introduction: memperkenalkan topik dan sudut pandang utama.",
+        "- Arguments: alasan dan bukti yang mendukung gagasan.",
+        "- Reiteration atau conclusion: penegasan kembali gagasan utama.",
+        "",
+        "#h2 Language Features",
+        "- Menggunakan simple present tense untuk fakta umum.",
+        "- Menggunakan kata penghubung seperti because, therefore, however, dan furthermore.",
+        "- Menggunakan kosakata yang berhubungan dengan topik.",
+        "- Menggunakan fakta atau alasan untuk mendukung gagasan."
+      ]
+    },
+    {
+      "reg_id": "EAAL00617092026",
+      "status": "active",
+      "title": "TOEFL Prediction Score",
+      "content": [
+        "#h1 TOEFL Prediction",
+        "TOEFL prediction digunakan untuk memperkirakan kemampuan bahasa Inggris melalui latihan yang menyerupai bagian-bagian tes TOEFL.",
+        "",
+        "#h2 Skill yang Dilatih",
+        "- Listening",
+        "- Structure and grammar",
+        "- Reading comprehension",
+        "- Vocabulary",
+        "",
+        "Hasil prediction dapat digunakan untuk mengetahui bagian bahasa Inggris yang masih perlu dilatih."
+      ]
+    },
+    {
+      "reg_id": "EAAL00724092026",
+      "status": "active",
+      "title": "IELTS Speaking Part 1",
+      "content": [
+        "#h1 IELTS Speaking Part 1",
+        "IELTS Speaking Part 1 berisi pertanyaan mengenai topik yang dekat dengan kehidupan sehari-hari, seperti identitas, tempat tinggal, hobi, sekolah, makanan, musik, dan kegiatan waktu luang.",
+        "",
+        "#h2 Basic Answer Structure",
+        "Jawaban sebaiknya tidak hanya satu kata. Berikan jawaban utama lalu tambahkan alasan atau detail sederhana.",
+        "",
+        "#h2 Example",
+        "Question: What do you do in your free time?",
+        "Answer: I usually study and play games in my free time. I also enjoy listening to music because it helps me relax.",
+        "",
+        "#h2 Speaking Tips",
+        "- Jawab dengan jelas.",
+        "- Gunakan kalimat sederhana yang benar.",
+        "- Jangan menghafalkan jawaban terlalu kaku.",
+        "- Tambahkan alasan atau contoh jika memungkinkan.",
+        "- Perhatikan pronunciation dan intonation."
+      ]
+    },
+    {
+      "reg_id": "EAAL00829092026",
+      "status": "active",
+      "title": "Simple Present Tense",
+      "content": [
+        "#h1 Simple Present Tense",
+        "Simple present digunakan untuk kebiasaan, fakta umum, rutinitas, dan keadaan yang relatif tetap.",
+        "",
+        "#h2 Positive",
+        "I/You/We/They + verb 1",
+        "He/She/It + verb 1 + s/es",
+        "",
+        "#h2 Examples",
+        "I play games every day.",
+        "She listens to music every day.",
+        "They study English at school.",
+        "",
+        "#h2 Negative",
+        "I/You/We/They + do not + verb 1",
+        "He/She/It + does not + verb 1",
+        "",
+        "#h2 Question",
+        "Do + I/you/we/they + verb 1?",
+        "Does + he/she/it + verb 1?"
+      ]
+    },
+    {
+      "reg_id": "EAAL00929092026",
+      "status": "active",
+      "title": "To Be dan Personal Information",
+      "content": [
+        "#h1 To Be",
+        "To be dalam present tense terdiri dari am, is, dan are.",
+        "",
+        "#table",
+        "Subject | To Be",
+        "--- | ---",
+        "I | am",
+        "You | are",
+        "We | are",
+        "They | are",
+        "He | is",
+        "She | is",
+        "It | is",
+        "#endtable",
+        "",
+        "#h2 Examples",
+        "I am a student.",
+        "She is from Jakarta.",
+        "They are my classmates.",
+        "",
+        "#h2 Personal Information",
+        "Pertanyaan personal information yang umum:",
+        "- What is your name?",
+        "- Where do you live?",
+        "- Where were you born?",
+        "- When were you born?",
+        "- What are your hobbies?",
+        "- What do you do in your free time?"
+      ]
+    },
+    {
+      "reg_id": "EAAL01029092026",
+      "status": "active",
+      "title": "Present Continuous Tense",
+      "content": [
+        "#h1 Present Continuous",
+        "Present continuous digunakan untuk kegiatan yang sedang berlangsung pada saat berbicara atau sekitar waktu sekarang.",
+        "",
+        "#h2 Formula",
+        "Subject + am/is/are + verb-ing",
+        "",
+        "#h2 Examples",
+        "I am studying English.",
+        "He is playing a game.",
+        "They are listening to music.",
+        "",
+        "#h2 Negative",
+        "Subject + am/is/are + not + verb-ing",
+        "",
+        "#h2 Question",
+        "Am/Is/Are + subject + verb-ing?"
+      ]
+    },
+    {
+      "reg_id": "EAAL01129092026",
+      "status": "active",
+      "title": "Past Simple Dasar",
+      "content": [
+        "#h1 Simple Past Tense",
+        "Simple past digunakan untuk membicarakan kejadian yang sudah terjadi di masa lalu.",
+        "",
+        "#h2 Formula",
+        "Subject + verb 2",
+        "",
+        "#h2 Examples",
+        "I played games yesterday.",
+        "She visited Jakarta last week.",
+        "They studied English yesterday.",
+        "",
+        "Untuk kalimat negatif dan pertanyaan, gunakan did/did not dan kembali ke verb 1.",
+        "",
+        "Negative: I did not play games yesterday.",
+        "Question: Did you play games yesterday?"
+      ]
+    },
+    {
+      "reg_id": "EAAL01229092026",
+      "status": "active",
+      "title": "Vocabulary dan Describing People",
+      "content": [
+        "#h1 Describing People",
+        "Describing people adalah kemampuan menjelaskan seseorang menggunakan informasi seperti nama, pekerjaan, hobi, kemampuan, dan karakteristik.",
+        "",
+        "#h2 Useful Vocabulary",
+        "- friendly = ramah",
+        "- creative = kreatif",
+        "- helpful = suka membantu",
+        "- hardworking = rajin",
+        "- quiet = pendiam",
+        "- active = aktif",
+        "- good at = pandai dalam",
+        "- interested in = tertarik pada",
+        "",
+        "#h2 Examples",
+        "He is good at playing games.",
+        "She is interested in music.",
+        "My friend is very helpful."
+      ]
+    },
+    {
+      "reg_id": "EAAL01329092026",
+      "status": "active",
+      "title": "Rangkuman B.Inggris Semester 1 - Catch Up",
+      "content": [
+        "#h1 Materi yang Perlu Dikuasai",
+        "1. Personal information dan self-introduction.",
+        "2. Reading comprehension.",
+        "3. Main idea dan supporting details.",
+        "4. Fact finding.",
+        "5. Skimming dan scanning.",
+        "6. Vocabulary in context.",
+        "7. Expository text.",
+        "8. IELTS Speaking Part 1.",
+        "9. Simple Present Tense.",
+        "10. To be: am, is, are.",
+        "11. Present Continuous Tense.",
+        "12. Simple Past Tense dasar.",
+        "13. Vocabulary untuk describing people.",
+        "",
+        "#h1 Prioritas Catch Up",
+        "Untuk mengejar materi, kuasai dulu personal introduction, basic grammar, reading comprehension, dan speaking. Setelah itu lanjutkan ke vocabulary dan latihan memahami teks."
+      ]
+    }
   ]
 }

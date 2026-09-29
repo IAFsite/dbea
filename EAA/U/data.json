@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "show_as": "Sejarah",
+    "wp": "wp.png"
+  },
+  "data": [
+    {
+      "reg_id": "EAAU00129092026",
+      "status": "active",
+      "title": "Pengantar Ilmu Sejarah",
+      "content": [
+        "#h1 Pengertian Sejarah",
+        "Sejarah adalah ilmu yang mempelajari peristiwa kehidupan manusia pada masa lalu berdasarkan sumber dan bukti yang dapat diteliti.",
+        "Kata sejarah berkaitan dengan kajian mengenai peristiwa masa lalu yang memiliki hubungan dengan kehidupan manusia.",
+        "___",
+        "#h1 Ciri-Ciri Sejarah",
+        "- Membahas peristiwa yang terjadi pada masa lalu.",
+        "- Berkaitan dengan kehidupan dan aktivitas manusia.",
+        "- Berdasarkan sumber dan bukti.",
+        "- Memiliki hubungan sebab-akibat.",
+        "- Disusun melalui proses penelitian dan interpretasi.",
+        "___",
+        "#h1 Unsur-Unsur Sejarah",
+        "#table",
+        "Unsur | Penjelasan",
+        "--- | ---",
+        "Manusia | Pelaku utama dalam berbagai peristiwa sejarah.",
+        "Ruang | Tempat terjadinya suatu peristiwa.",
+        "Waktu | Kapan suatu peristiwa terjadi.",
+        "Peristiwa | Kejadian yang menjadi objek kajian sejarah.",
+        "#endtable"
+      ]
+    },
+    {
+      "reg_id": "EAAU00229092026",
+      "status": "active",
+      "title": "Aspek-Aspek Sejarah",
+      "content": [
+        "#h1 Aspek Sejarah",
+        "Dalam mempelajari suatu peristiwa sejarah, terdapat beberapa aspek yang perlu diperhatikan agar peristiwa dapat dipahami secara lebih lengkap.",
+        "#h3 Aspek Waktu",
+        "Membahas kapan suatu peristiwa terjadi, urutan peristiwa, serta perubahan yang terjadi dari waktu ke waktu.",
+        "#h3 Aspek Ruang",
+        "Membahas lokasi atau wilayah tempat suatu peristiwa sejarah terjadi.",
+        "#h3 Aspek Manusia",
+        "Membahas tokoh, kelompok, masyarakat, dan pihak-pihak yang terlibat dalam suatu peristiwa.",
+        "#h3 Aspek Peristiwa",
+        "Membahas kejadian yang terjadi, termasuk latar belakang, proses, dan akibatnya.",
+        "___",
+        "#h1 Contoh",
+        "Proklamasi Kemerdekaan Indonesia dapat dikaji berdasarkan waktu terjadinya pada 17 Agustus 1945, tempat pembacaan proklamasi di Jakarta, tokoh yang terlibat, serta proses dan dampak dari peristiwa tersebut."
+      ]
+    },
+    {
+      "reg_id": "EAAU00329092026",
+      "status": "active",
+      "title": "Sumber Sejarah",
+      "content": [
+        "#h1 Pengertian Sumber Sejarah",
+        "Sumber sejarah adalah segala sesuatu yang dapat memberikan informasi atau bukti mengenai suatu peristiwa pada masa lalu.",
+        "Sumber sejarah digunakan oleh sejarawan untuk mengetahui, memeriksa, dan merekonstruksi peristiwa sejarah.",
+        "___",
+        "#h1 Jenis Sumber Sejarah Berdasarkan Bentuk",
+        "#h3 Sumber Tertulis",
+        "Sumber yang berbentuk tulisan.",
+        "Contoh: surat, prasasti, naskah, arsip, koran, buku, dan dokumen resmi.",
+        "#h3 Sumber Lisan",
+        "Informasi sejarah yang diperoleh melalui keterangan langsung dari seseorang yang mengetahui atau mengalami suatu peristiwa.",
+        "Contoh: wawancara dengan pelaku atau saksi sejarah.",
+        "#h3 Sumber Benda",
+        "Benda peninggalan masa lalu yang dapat memberikan informasi mengenai kehidupan manusia pada suatu zaman.",
+        "Contoh: candi, senjata, fosil, peralatan, pakaian, dan artefak.",
+        "#h3 Sumber Visual dan Audiovisual",
+        "Sumber berupa gambar, foto, rekaman suara, film, atau video yang memiliki nilai informasi sejarah.",
+        "Contoh: foto dokumentasi suatu peristiwa dan rekaman pidato."
+      ]
+    },
+    {
+      "reg_id": "EAAU00429092026",
+      "status": "active",
+      "title": "Sumber Primer",
+      "content": [
+        "#h1 Sumber Primer",
+        "Sumber primer adalah sumber sejarah yang berasal langsung dari masa atau peristiwa yang sedang diteliti.",
+        "Sumber primer dapat dibuat oleh pelaku, saksi, lembaga, atau pihak yang terlibat langsung dalam suatu peristiwa.",
+        "#table",
+        "Contoh | Keterangan",
+        "--- | ---",
+        "Surat yang dibuat pada masa peristiwa | Dokumen langsung dari masa tersebut",
+        "Prasasti | Peninggalan tertulis dari masa tertentu",
+        "Foto asli peristiwa | Dokumentasi langsung suatu kejadian",
+        "Arsip pemerintah | Dokumen yang dibuat oleh lembaga pada masa tersebut",
+        "Wawancara dengan saksi sejarah | Kesaksian langsung dari orang yang mengalami atau menyaksikan peristiwa",
+        "Artefak | Benda peninggalan dari suatu periode sejarah",
+        "#endtable",
+        "___",
+        "#h1 Contoh",
+        "Jika ingin meneliti Proklamasi Kemerdekaan Indonesia, naskah Proklamasi yang berasal dari masa 1945 merupakan salah satu contoh sumber primer."
+      ]
+    },
+    {
+      "reg_id": "EAAU00529092026",
+      "status": "active",
+      "title": "Sumber Sekunder",
+      "content": [
+        "#h1 Sumber Sekunder",
+        "Sumber sekunder adalah sumber yang dibuat berdasarkan penelitian, analisis, atau interpretasi terhadap sumber primer dan sumber lainnya.",
+        "Sumber sekunder biasanya dibuat setelah peristiwa yang diteliti terjadi.",
+        "#table",
+        "Contoh | Keterangan",
+        "--- | ---",
+        "Buku sejarah | Berisi hasil penelitian dan interpretasi penulis",
+        "Artikel ilmiah sejarah | Membahas suatu peristiwa berdasarkan penelitian",
+        "Biografi yang ditulis oleh peneliti | Menggunakan berbagai sumber untuk membahas kehidupan tokoh",
+        "Dokumenter sejarah | Menyajikan kembali peristiwa berdasarkan berbagai sumber",
+        "Ensiklopedia sejarah | Menyediakan ringkasan informasi sejarah",
+        "#endtable",
+        "___",
+        "#h1 Perbedaan Primer dan Sekunder",
+        "- Sumber primer berasal langsung dari masa atau peristiwa yang diteliti.",
+        "- Sumber sekunder dibuat kemudian berdasarkan penelitian atau analisis terhadap sumber-sumber sejarah.",
+        "- Sumber sekunder tetap dapat menjadi sumber penting, tetapi perlu dilihat dasar sumber dan metode yang digunakan penulis."
+      ]
+    },
+    {
+      "reg_id": "EAAU00629092026",
+      "status": "active",
+      "title": "Tokoh Sejarah",
+      "content": [
+        "#h1 Pengertian Tokoh Sejarah",
+        "Tokoh sejarah adalah individu yang memiliki keterlibatan atau peran penting dalam suatu peristiwa atau perkembangan masyarakat pada masa lalu.",
+        "Peran seorang tokoh perlu dipahami berdasarkan sumber sejarah, konteks zamannya, serta tindakan yang dilakukan.",
+        "___",
+        "#h1 Contoh Tokoh Sejarah Indonesia",
+        "#table",
+        "Tokoh | Peran atau keterkaitan sejarah",
+        "--- | ---",
+        "Soekarno | Tokoh pergerakan nasional dan salah satu proklamator Kemerdekaan Indonesia",
+        "Mohammad Hatta | Tokoh pergerakan nasional dan salah satu proklamator Kemerdekaan Indonesia",
+        "Ki Hajar Dewantara | Tokoh pendidikan dan pergerakan nasional",
+        "R.A. Kartini | Tokoh yang dikenal melalui gagasan mengenai pendidikan dan emansipasi perempuan",
+        "Diponegoro | Tokoh yang memimpin perlawanan terhadap pemerintah kolonial dalam Perang Jawa",
+        "#endtable",
+        "___",
+        "#h1 Cara Mempelajari Tokoh Sejarah",
+        "- Pelajari latar belakang kehidupannya.",
+        "- Identifikasi peran dan tindakannya.",
+        "- Perhatikan konteks zaman ketika tokoh tersebut hidup.",
+        "- Gunakan sumber sejarah yang relevan.",
+        "- Bandingkan beberapa sumber jika terdapat perbedaan informasi."
+      ]
+    },
+    {
+      "reg_id": "EAAU00729092026",
+      "status": "active",
+      "title": "Kronologi dan Periodisasi",
+      "content": [
+        "#h1 Kronologi",
+        "Kronologi adalah penyusunan peristiwa berdasarkan urutan waktu terjadinya.",
+        "Kronologi membantu kita memahami hubungan antara peristiwa yang terjadi lebih dahulu dan peristiwa yang terjadi kemudian.",
+        "#h3 Contoh",
+        "Perumusan dasar negara → Proklamasi Kemerdekaan → Pembentukan pemerintahan Indonesia.",
+        "___",
+        "#h1 Periodisasi",
+        "Periodisasi adalah pembagian sejarah ke dalam beberapa periode berdasarkan ciri atau perkembangan tertentu.",
+        "#h3 Contoh Periodisasi Sejarah Indonesia",
+        "- Masa Praaksara",
+        "- Masa Hindu-Buddha",
+        "- Masa Islam",
+        "- Masa kolonial",
+        "- Masa pergerakan nasional",
+        "- Masa pendudukan Jepang",
+        "- Masa kemerdekaan",
+        "___",
+        "#h1 Perbedaan",
+        "Kronologi menekankan urutan waktu suatu peristiwa, sedangkan periodisasi membagi perjalanan sejarah menjadi beberapa periode."
+      ]
+    },
+    {
+      "reg_id": "EAAU00829092026",
+      "status": "active",
+      "title": "Diakronik dan Sinkronik",
+      "content": [
+        "#h1 Cara Berpikir Sejarah",
+        "Dalam mempelajari sejarah, terdapat cara berpikir diakronik dan sinkronik.",
+        "#h3 Diakronik",
+        "Cara berpikir diakronik melihat suatu peristiwa berdasarkan perkembangan dan urutan waktu.",
+        "Fokusnya adalah perubahan dan kesinambungan suatu peristiwa dari waktu ke waktu.",
+        "#h3 Sinkronik",
+        "Cara berpikir sinkronik mengkaji suatu keadaan pada satu periode tertentu secara lebih mendalam dan luas dalam ruang.",
+        "___",
+        "#h1 Contoh",
+        "Diakronik: mempelajari perkembangan pergerakan nasional Indonesia dari awal abad ke-20 sampai Proklamasi.",
+        "Sinkronik: mempelajari kondisi sosial dan politik Indonesia pada tahun 1945."
+      ]
+    },
+    {
+      "reg_id": "EAAU00929092026",
+      "status": "active",
+      "title": "Penelitian Sejarah",
+      "content": [
+        "#h1 Pengertian Penelitian Sejarah",
+        "Penelitian sejarah adalah proses sistematis untuk mempelajari peristiwa masa lalu dengan menggunakan sumber sejarah.",
+        "#h1 Tahapan Penelitian Sejarah",
+        "#h3 1. Heuristik",
+        "Mencari dan mengumpulkan sumber sejarah yang relevan.",
+        "#h3 2. Kritik Sumber",
+        "Memeriksa keaslian dan kredibilitas sumber.",
+        "#h3 3. Interpretasi",
+        "Menafsirkan fakta dan informasi yang diperoleh dari sumber.",
+        "#h3 4. Historiografi",
+        "Menyusun hasil penelitian sejarah menjadi tulisan sejarah.",
+        "___",
+        "#h1 Kritik Sumber",
+        "#h3 Kritik Ekstern",
+        "Memeriksa keaslian atau autentisitas sumber.",
+        "#h3 Kritik Intern",
+        "Memeriksa isi sumber, kredibilitas informasi, dan kemungkinan bias atau kekeliruan."
+      ]
+    },
+    {
+      "reg_id": "EAAU01029092026",
+      "status": "active",
+      "title": "Fakta dan Interpretasi Sejarah",
+      "content": [
+        "#h1 Fakta Sejarah",
+        "Fakta sejarah adalah informasi mengenai masa lalu yang didukung oleh sumber dan bukti sejarah.",
+        "Contoh: Proklamasi Kemerdekaan Indonesia dibacakan pada 17 Agustus 1945.",
+        "#h1 Interpretasi Sejarah",
+        "Interpretasi adalah proses menafsirkan fakta-fakta sejarah untuk memahami hubungan, makna, dan konteks suatu peristiwa.",
+        "Interpretasi harus didasarkan pada sumber dan argumentasi yang dapat dipertanggungjawabkan.",
+        "___",
+        "#h1 Pentingnya Membandingkan Sumber",
+        "Satu sumber tidak selalu memberikan seluruh informasi mengenai suatu peristiwa. Karena itu, peneliti sejarah dapat membandingkan beberapa sumber untuk memperoleh pemahaman yang lebih lengkap dan mengidentifikasi perbedaan atau bias."
+      ]
+    },
+    {
+      "reg_id": "EAAU01129092026",
+      "status": "active",
+      "title": "Rangkuman Sejarah Semester 1 - Catch Up",
+      "content": [
+        "#h1 Rangkuman",
+        "1. Sejarah mempelajari peristiwa masa lalu manusia berdasarkan sumber dan bukti.",
+        "2. Unsur penting sejarah meliputi manusia, ruang, waktu, dan peristiwa.",
+        "3. Sumber sejarah dapat berupa sumber tertulis, lisan, benda, visual, dan audiovisual.",
+        "4. Sumber primer berasal langsung dari masa atau peristiwa yang diteliti.",
+        "5. Sumber sekunder dibuat berdasarkan penelitian atau analisis terhadap sumber sejarah.",
+        "6. Tokoh sejarah perlu dipelajari berdasarkan peran, tindakan, konteks zaman, dan sumber yang tersedia.",
+        "7. Kronologi menyusun peristiwa berdasarkan urutan waktu.",
+        "8. Periodisasi membagi sejarah menjadi beberapa periode.",
+        "9. Diakronik melihat perkembangan peristiwa dari waktu ke waktu, sedangkan sinkronik mengkaji suatu keadaan pada satu periode tertentu secara luas.",
+        "10. Penelitian sejarah meliputi heuristik, kritik sumber, interpretasi, dan historiografi.",
+        "11. Kritik ekstern memeriksa keaslian sumber, sedangkan kritik intern memeriksa isi dan kredibilitas informasi.",
+        "12. Fakta sejarah harus didukung oleh sumber dan bukti, sedangkan interpretasi merupakan proses penafsiran terhadap fakta."
+      ]
+    }
+  ]
+}

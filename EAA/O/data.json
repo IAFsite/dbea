@@ -1,6 +1,93 @@
 {
-  "meta": {"show_as": "Tufel","wp": "wp.png"},
+  "meta": {
+    "show_as": "Tufel",
+    "wp": "wp.png"
+  },
   "data": [
-    {"reg_id": "EAAQ00120072026","status": "active","title": "opening","content": ["#h1 where you hope iengles will take you in 10 year","i hope","i hope engles will take me to cayber security space"]}
+    {
+      "reg_id": "EAAQ00120072026",
+      "status": "active",
+      "title": "Opening",
+      "content": [
+        "#h1 Where I Hope English Will Take Me in 10 Years",
+        "I hope English will help me enter the cybersecurity field in the future.",
+        "I want to use English to learn about cybersecurity, communicate with people from different countries, and understand technical information."
+      ]
+    },
+    {
+      "reg_id": "EAAQ00229092026",
+      "status": "active",
+      "title": "Future Goals",
+      "content": [
+        "#h1 My Future Goal",
+        "In the future, I hope to work in the field of cybersecurity.",
+        "",
+        "English is important because many cybersecurity resources, documentation, courses, tools, and communities use English.",
+        "",
+        "#h2 Skills I Want to Develop",
+        "- English communication.",
+        "- Reading technical documentation.",
+        "- Cybersecurity knowledge.",
+        "- Computer networking.",
+        "- Programming.",
+        "- Problem-solving."
+      ]
+    },
+    {
+      "reg_id": "EAAQ00329092026",
+      "status": "active",
+      "title": "English for Technology",
+      "content": [
+        "#h1 English in Technology",
+        "English is widely used in technology and computer science.",
+        "",
+        "#h2 Useful Technical Vocabulary",
+        "- cybersecurity = keamanan siber",
+        "- network = jaringan",
+        "- server = server",
+        "- database = basis data",
+        "- password = kata sandi",
+        "- encryption = enkripsi",
+        "- vulnerability = kerentanan",
+        "- firewall = sistem yang membantu menyaring lalu lintas jaringan",
+        "- authentication = proses memastikan identitas pengguna",
+        "- privacy = privasi",
+        "",
+        "Understanding these words can make it easier to read technical documentation and communicate about technology."
+      ]
+    },
+    {
+      "reg_id": "EAAQ00429092026",
+      "status": "active",
+      "title": "Speaking About My Future",
+      "content": [
+        "#h1 Talking About Future Plans",
+        "Beberapa pola yang dapat digunakan untuk membicarakan rencana dan harapan masa depan:",
+        "",
+        "- I hope to...",
+        "- I want to...",
+        "- I plan to...",
+        "- I would like to...",
+        "- In the future, I want to...",
+        "",
+        "#h2 Example",
+        "In the future, I want to work in cybersecurity. I hope English will help me learn new technologies and communicate with people around the world."
+      ]
+    },
+    {
+      "reg_id": "EAAQ00529092026",
+      "status": "active",
+      "title": "Rangkuman Tufel",
+      "content": [
+        "#h1 Main Topic",
+        "English can be useful for achieving future goals, especially in technology-related fields.",
+        "",
+        "#h1 Personal Goal",
+        "My goal is to explore cybersecurity in the future and use English as a tool for learning, communication, and understanding technical information.",
+        "",
+        "#h1 Key Vocabulary",
+        "English, future, goal, cybersecurity, technology, network, server, database, security, communication."
+      ]
+    }
   ]
 }

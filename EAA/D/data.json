@@ -1,7 +1,301 @@
 {
-  "meta": {"show_as": "Wira usaha","wp": "wp.png"},
+  "meta": {
+    "show_as": "Wira usaha",
+    "wp": "wp.png"
+  },
   "data": [
-    {"reg_id": "EAAB00120072026","status": "active","title": "test","content": ["#empty"]}
-
+    {
+      "reg_id": "EAAD00120072026",
+      "status": "active",
+      "title": "test",
+      "content": [
+        "#empty"
+      ]
+    },
+    {
+      "reg_id": "EAAD00229092026",
+      "status": "active",
+      "title": "Pengertian Wirausaha dan Kewirausahaan",
+      "content": [
+        "Wirausaha adalah seseorang yang mampu melihat peluang, membuat ide atau produk, lalu mengelolanya menjadi suatu usaha.",
+        "",
+        "Kewirausahaan adalah proses atau kemampuan dalam menciptakan dan mengembangkan usaha dengan memanfaatkan peluang dan sumber daya yang ada.",
+        "",
+        "#h1 Ciri-ciri Wirausaha",
+        "- Kreatif dalam menghasilkan ide.",
+        "- Inovatif dalam mengembangkan produk atau jasa.",
+        "- Berani mengambil risiko yang terukur.",
+        "- Mampu melihat dan memanfaatkan peluang.",
+        "- Mempunyai tanggung jawab terhadap usaha.",
+        "- Mampu menyelesaikan masalah.",
+        "- Mampu berkomunikasi dan bekerja sama.",
+        "- Mempunyai orientasi terhadap hasil dan perbaikan."
+      ]
+    },
+    {
+      "reg_id": "EAAD00329092026",
+      "status": "active",
+      "title": "Ide dan Peluang Usaha",
+      "content": [
+        "Ide usaha adalah gagasan yang dapat dikembangkan menjadi produk atau jasa.",
+        "",
+        "Peluang usaha adalah kesempatan yang dapat dimanfaatkan untuk membuat atau mengembangkan suatu usaha.",
+        "",
+        "#h1 Sumber Ide Usaha",
+        "- Masalah atau kebutuhan masyarakat.",
+        "- Hobi dan keterampilan.",
+        "- Perkembangan teknologi.",
+        "- Tren dan perubahan gaya hidup.",
+        "- Lingkungan sekitar.",
+        "- Pengalaman pribadi.",
+        "- Pengamatan terhadap usaha yang sudah ada.",
+        "",
+        "#h1 Contoh",
+        "Jika banyak siswa membutuhkan tempat untuk mencetak tugas, hal tersebut dapat menjadi peluang untuk membuka jasa print dan fotokopi di sekitar sekolah."
+      ]
+    },
+    {
+      "reg_id": "EAAD00429092026",
+      "status": "active",
+      "title": "Produk dan Jasa",
+      "content": [
+        "Produk adalah sesuatu yang dapat ditawarkan kepada konsumen untuk memenuhi kebutuhan atau keinginan.",
+        "",
+        "Jasa adalah layanan atau aktivitas yang diberikan kepada konsumen untuk memenuhi kebutuhan tertentu.",
+        "",
+        "#table",
+        "Jenis | Contoh",
+        "--- | ---",
+        "Produk | Makanan, pakaian, alat tulis",
+        "Jasa | Desain, servis komputer, les",
+        "#endtable",
+        "",
+        "Dalam usaha, produk atau jasa harus mempunyai manfaat dan nilai bagi konsumen.",
+        "",
+        "#h1 Nilai Produk atau Jasa",
+        "- Manfaat yang dirasakan konsumen.",
+        "- Kualitas produk atau layanan.",
+        "- Harga yang sesuai.",
+        "- Kemudahan mendapatkan produk atau jasa.",
+        "- Keunikan atau keunggulan dibandingkan pilihan lain."
+      ]
+    },
+    {
+      "reg_id": "EAAD00529092026",
+      "status": "active",
+      "title": "Target Pasar dan Konsumen",
+      "content": [
+        "Target pasar adalah kelompok konsumen yang menjadi sasaran utama suatu produk atau jasa.",
+        "",
+        "#h1 Hal yang Perlu Diperhatikan",
+        "- Usia konsumen.",
+        "- Kebutuhan dan masalah konsumen.",
+        "- Lokasi konsumen.",
+        "- Kemampuan membeli.",
+        "- Kebiasaan dan minat konsumen.",
+        "",
+        "Contoh: usaha makanan ringan di sekolah dapat menargetkan siswa sebagai konsumen utama dengan mempertimbangkan harga yang sesuai dengan uang saku.",
+        "",
+        "#h1 Segmentasi Pasar",
+        "Segmentasi pasar adalah proses membagi pasar menjadi kelompok konsumen berdasarkan karakteristik tertentu.",
+        "",
+        "- Demografis: usia, jenis kelamin, pendidikan, dan pendapatan.",
+        "- Geografis: wilayah atau lokasi tempat tinggal.",
+        "- Psikografis: gaya hidup, minat, dan karakteristik.",
+        "- Perilaku: kebiasaan dan perilaku dalam membeli atau menggunakan produk."
+      ]
+    },
+    {
+      "reg_id": "EAAD00629092026",
+      "status": "active",
+      "title": "Analisis SWOT Sederhana",
+      "content": [
+        "SWOT digunakan untuk melihat kondisi suatu usaha dari faktor internal dan eksternal.",
+        "",
+        "#table",
+        "Bagian | Arti | Faktor",
+        "--- | --- | ---",
+        "Strengths | Kekuatan | Internal",
+        "Weaknesses | Kelemahan | Internal",
+        "Opportunities | Peluang | Eksternal",
+        "Threats | Ancaman | Eksternal",
+        "#endtable",
+        "",
+        "Contoh usaha jasa desain:",
+        "Strengths: mempunyai kemampuan desain.",
+        "Weaknesses: waktu pengerjaan terbatas.",
+        "Opportunities: semakin banyak orang membutuhkan desain digital.",
+        "Threats: banyak jasa desain lain yang menjadi pesaing."
+      ]
+    },
+    {
+      "reg_id": "EAAD00729092026",
+      "status": "active",
+      "title": "Rangkuman Wira Usaha Semester 1 - Catch Up",
+      "content": [
+        "#h1 Pokok Materi",
+        "1. Pengertian wirausaha dan kewirausahaan.",
+        "2. Ciri-ciri seorang wirausaha.",
+        "3. Ide dan peluang usaha.",
+        "4. Produk dan jasa.",
+        "5. Target pasar dan konsumen.",
+        "6. Segmentasi pasar.",
+        "7. Analisis SWOT.",
+        "",
+        "Inti kewirausahaan adalah kemampuan melihat kebutuhan atau masalah, menemukan peluang, kemudian mengembangkan solusi dalam bentuk produk atau jasa yang mempunyai nilai bagi konsumen."
+      ]
+    },
+    {
+      "reg_id": "EAAD00829092026",
+      "status": "active",
+      "title": "Kebutuhan dan Masalah Konsumen",
+      "content": [
+        "Salah satu dasar munculnya peluang usaha adalah adanya kebutuhan atau masalah yang belum terselesaikan dengan baik.",
+        "",
+        "#h1 Kebutuhan Konsumen",
+        "Kebutuhan konsumen adalah sesuatu yang diperlukan atau diinginkan konsumen dan dapat dipenuhi melalui produk atau jasa.",
+        "",
+        "#h1 Cara Menemukan Masalah Konsumen",
+        "- Melakukan observasi.",
+        "- Melakukan wawancara atau bertanya kepada calon konsumen.",
+        "- Membuat survei sederhana.",
+        "- Mengamati keluhan dan kesulitan yang sering terjadi.",
+        "- Mengamati produk atau layanan yang sudah ada.",
+        "",
+        "Semakin jelas masalah yang ingin diselesaikan, semakin mudah menentukan solusi usaha yang sesuai."
+      ]
+    },
+    {
+      "reg_id": "EAAD00929092026",
+      "status": "active",
+      "title": "Proses Menentukan Ide Usaha",
+      "content": [
+        "Ide usaha tidak hanya berasal dari kreativitas, tetapi juga perlu disesuaikan dengan kebutuhan konsumen dan kemampuan yang dimiliki.",
+        "",
+        "#h1 Tahapan Sederhana",
+        "1. Menemukan masalah atau kebutuhan.",
+        "2. Mengumpulkan beberapa ide solusi.",
+        "3. Menentukan calon konsumen.",
+        "4. Menilai kelebihan dan kekurangan setiap ide.",
+        "5. Memilih ide yang paling memungkinkan untuk dikembangkan.",
+        "6. Membuat produk atau layanan awal.",
+        "7. Mendapatkan masukan dari calon konsumen.",
+        "8. Melakukan perbaikan.",
+        "",
+        "Proses tersebut dapat dilakukan berulang karena sebuah usaha perlu terus menyesuaikan diri dengan kebutuhan konsumen."
+      ]
+    },
+    {
+      "reg_id": "EAAD01029092026",
+      "status": "active",
+      "title": "Bauran Pemasaran 4P",
+      "content": [
+        "Bauran pemasaran atau marketing mix adalah kumpulan unsur yang dapat digunakan usaha untuk merencanakan pemasaran produknya.",
+        "",
+        "#table",
+        "Unsur | Pengertian | Contoh",
+        "--- | --- | ---",
+        "Product | Produk atau jasa yang ditawarkan | Makanan, aplikasi, jasa desain",
+        "Price | Harga yang ditetapkan | Rp10.000 per produk",
+        "Place | Tempat atau saluran distribusi | Toko, marketplace, website",
+        "Promotion | Cara memperkenalkan produk | Iklan, media sosial, promosi",
+        "#endtable",
+        "",
+        "4P membantu wirausaha memikirkan produk secara lebih lengkap, bukan hanya membuat barang tetapi juga menentukan harga, cara menjual, dan cara memperkenalkannya."
+      ]
+    },
+    {
+      "reg_id": "EAAD01129092026",
+      "status": "active",
+      "title": "Modal dan Biaya Usaha Dasar",
+      "content": [
+        "Modal adalah sumber daya yang digunakan untuk memulai atau menjalankan suatu usaha.",
+        "",
+        "#h1 Contoh Modal",
+        "- Uang untuk membeli bahan atau peralatan.",
+        "- Peralatan kerja.",
+        "- Tempat usaha.",
+        "- Kemampuan atau keterampilan.",
+        "- Waktu dan tenaga.",
+        "",
+        "#h1 Jenis Biaya Sederhana",
+        "Biaya tetap adalah biaya yang relatif tidak berubah ketika jumlah produksi berubah dalam jangka pendek, seperti sewa tempat.",
+        "",
+        "Biaya variabel adalah biaya yang berubah mengikuti jumlah produksi atau penjualan, seperti bahan baku.",
+        "",
+        "Pemahaman biaya penting agar wirausaha dapat memperkirakan kebutuhan modal dan menentukan harga jual secara lebih masuk akal."
+      ]
+    },
+    {
+      "reg_id": "EAAD01229092026",
+      "status": "active",
+      "title": "Harga Jual dan Keuntungan Dasar",
+      "content": [
+        "Harga jual adalah harga yang dibayarkan konsumen untuk memperoleh suatu produk atau jasa.",
+        "",
+        "Secara sederhana, keuntungan diperoleh ketika pendapatan lebih besar daripada biaya.",
+        "",
+        "#h1 Rumus Dasar",
+        "Pendapatan = Harga jual × Jumlah produk terjual",
+        "",
+        "Keuntungan = Pendapatan - Total biaya",
+        "",
+        "#h1 Contoh",
+        "Sebuah usaha menjual 20 produk dengan harga Rp10.000 per produk. Pendapatannya adalah Rp200.000.",
+        "",
+        "Jika total biaya yang dikeluarkan adalah Rp150.000, maka keuntungan sederhananya adalah Rp50.000.",
+        "",
+        "Dalam usaha nyata, perhitungan biaya harus memperhitungkan seluruh biaya yang relevan agar keuntungan tidak terlihat lebih besar dari kondisi sebenarnya."
+      ]
+    },
+    {
+      "reg_id": "EAAD01329092026",
+      "status": "active",
+      "title": "Promosi dan Branding Dasar",
+      "content": [
+        "Promosi adalah kegiatan untuk memperkenalkan produk atau jasa kepada calon konsumen dan mendorong mereka untuk mempertimbangkan atau membeli produk.",
+        "",
+        "Branding adalah proses membangun identitas dan persepsi suatu usaha agar mudah dikenali.",
+        "",
+        "#h1 Contoh Media Promosi",
+        "- Media sosial.",
+        "- Poster atau brosur.",
+        "- Marketplace.",
+        "- Website.",
+        "- Rekomendasi dari pelanggan.",
+        "- Promosi langsung.",
+        "",
+        "#h1 Hal yang Perlu Diperhatikan",
+        "- Pesan harus jelas.",
+        "- Informasi produk harus benar.",
+        "- Promosi harus sesuai dengan target pasar.",
+        "- Identitas usaha harus konsisten.",
+        "- Jangan membuat klaim yang menyesatkan."
+      ]
+    },
+    {
+      "reg_id": "EAAD01429092026",
+      "status": "active",
+      "title": "Rangkuman Catch Up Wira Usaha",
+      "content": [
+        "#h1 Materi yang Perlu Dikuasai",
+        "1. Pengertian wirausaha dan kewirausahaan.",
+        "2. Ciri-ciri wirausaha.",
+        "3. Ide dan peluang usaha.",
+        "4. Produk dan jasa.",
+        "5. Nilai produk atau jasa.",
+        "6. Kebutuhan dan masalah konsumen.",
+        "7. Target pasar dan segmentasi pasar.",
+        "8. Analisis SWOT.",
+        "9. Proses menentukan ide usaha.",
+        "10. Bauran pemasaran 4P.",
+        "11. Modal dan biaya usaha dasar.",
+        "12. Harga jual, pendapatan, dan keuntungan.",
+        "13. Promosi dan branding dasar.",
+        "",
+        "#h1 Inti",
+        "Kewirausahaan bukan hanya tentang membuat dan menjual produk. Wirausaha perlu memahami masalah konsumen, menemukan peluang, membuat solusi yang bernilai, menentukan target pasar, menghitung biaya, serta memasarkan produk atau jasa dengan cara yang sesuai."
+      ]
+    }
   ]
 }

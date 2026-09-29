@@ -1,7 +1,268 @@
 {
-  "meta": {"show_as": "geografi catetan","wp": "wp.png"},
+  "meta": {
+    "show_as": "Geografi Catatan",
+    "wp": "wp.png"
+  },
   "data": [
-    {"reg_id": "EAAR00107082026","status": "active","title": "perkenanlan","content": ["#h1 Bab 1 penghantar ilmu geografi","- perkembangan ilmu geografi","- objek studi geografi","- aspek geografi","- ruang lingkup geografi","___","#h1 perkembangan ilmu geografi","- apa fenomena geosfer yang pernah anda alami?","- apa dampak fenomena tersebut terhadap aktivitas dan kehidpan anda? bagaimana cara anda menghadapinya?","menurut anda,mengapa memahami kondisi lingkungan sekitar menjadi hal yang penting?","#h1 arti dari geografi","geo graphine","geo yang artinya bumidan graphine artinya ilmu","","jadi ya ilmu yang mempelajari bumi","#h1 definisi geografi | menurut ahli","#table","tokoh | definisi","--- | ---","eratosthenes | geografi adalah gambaran mengenai bumi","cladiusm ptplomemus | geografi adalah penyajian sebagian atau seluruh permukaan bumi dan fenomena-fenomena dalam bentuk peta","#endtable","___","#table","nama | definisi","--- | ---","Bintarto | geografi adalah ilmu pengetahuan yang menerangkan","endtable","___","#h1 definis geografi","ilmu yang mempelajari persamaan dan berbedaan fenomena, baik fenomena fisik maupun fenomena sosial, yayitu interaksi manusia dengan lingkungan fisiknya, yang terjadi di ruang muka bumi serta mencari hubungan dan keterkaitan karena adanya interaksi fenomena tersebut","___","#h1 objek studi geografi","#h3 objek material","objek geografi yang berkaitan dengan substansi materi yang di kaji","#h3 objek formal","objek geografi berkaitan pendekatan (cara pandang yang di gunakan untuk menganalisis substansi materi)","#h1 fenomena geosfer","- litospher = lapisan bebatuan yang menyusun kulit bumi misalnya dataran tinggi, dataran rendah, dan lapisan tanah","- hidrospare = lapisan air yang ada di bumi, misalnya sungai dan laut","atmotfer = lapisan udara yang ada di sekitar kita, misalnya hujan awan dan angin","biospare = lapisan kehidupan flora dan fauna","- antropher = HOMOSAPIENS"]}
-
+    {
+      "reg_id": "EAAR00107082026",
+      "status": "active",
+      "title": "Pengenalan",
+      "content": [
+        "#h1 Bab 1 Pengantar Ilmu Geografi",
+        "- Perkembangan ilmu geografi",
+        "- Objek studi geografi",
+        "- Aspek geografi",
+        "- Ruang lingkup geografi",
+        "- Pendekatan geografi",
+        "- Konsep dasar geografi",
+        "- Prinsip geografi",
+        "___",
+        "#h1 Perkembangan Ilmu Geografi",
+        "- Apa fenomena geosfer yang pernah Anda alami?",
+        "- Apa dampak fenomena tersebut terhadap aktivitas dan kehidupan Anda?",
+        "- Bagaimana cara Anda menghadapi fenomena tersebut?",
+        "- Mengapa memahami kondisi lingkungan sekitar menjadi hal yang penting?",
+        "___",
+        "#h1 Arti Geografi",
+        "Geo = bumi",
+        "Graphein = tulisan atau gambaran",
+        "Geografi secara sederhana dapat diartikan sebagai ilmu yang mempelajari bumi beserta berbagai fenomena yang terjadi di dalamnya.",
+        "___",
+        "#h1 Definisi Geografi Menurut Ahli",
+        "#table",
+        "Tokoh | Definisi",
+        "--- | ---",
+        "Eratosthenes | Geografi adalah gambaran atau tulisan mengenai bumi.",
+        "Claudius Ptolemaeus | Geografi berkaitan dengan penyajian permukaan bumi dan fenomena di atasnya, termasuk melalui peta.",
+        "Bintarto | Geografi mempelajari hubungan kausal gejala-gejala di permukaan bumi, baik yang bersifat fisik maupun yang berkaitan dengan kehidupan manusia.",
+        "#endtable",
+        "___",
+        "#h1 Definisi Geografi",
+        "Geografi adalah ilmu yang mempelajari persamaan dan perbedaan fenomena geosfer, baik fenomena fisik maupun sosial, serta interaksi manusia dengan lingkungan dalam ruang muka bumi.",
+        "Geografi juga mempelajari hubungan dan keterkaitan antarfaktor yang menyebabkan suatu fenomena terjadi di suatu wilayah.",
+        "___",
+        "#h1 Objek Studi Geografi",
+        "#h3 Objek Material",
+        "Objek material adalah substansi atau materi yang dikaji dalam geografi.",
+        "Objek material utama geografi adalah fenomena geosfer, yaitu litosfer, atmosfer, hidrosfer, biosfer, dan antroposfer.",
+        "#h3 Objek Formal",
+        "Objek formal adalah cara pandang atau pendekatan yang digunakan untuk menganalisis objek material.",
+        "Objek formal geografi meliputi pendekatan keruangan, kelingkungan, dan kompleks wilayah."
+      ]
+    },
+    {
+      "reg_id": "EAAR00229092026",
+      "status": "active",
+      "title": "Objek Studi Geografi",
+      "content": [
+        "#h1 Objek Material dan Objek Formal",
+        "#h3 Objek Material",
+        "Objek material adalah segala sesuatu yang menjadi bahan kajian geografi, terutama fenomena yang terdapat pada geosfer.",
+        "#table",
+        "Objek | Contoh",
+        "--- | ---",
+        "Litosfer | Gunung, batuan, tanah, dataran tinggi",
+        "Atmosfer | Suhu, awan, angin, hujan",
+        "Hidrosfer | Sungai, laut, danau, air tanah",
+        "Biosfer | Flora dan fauna",
+        "Antroposfer | Penduduk, permukiman, aktivitas manusia",
+        "#endtable",
+        "#h3 Objek Formal",
+        "Objek formal adalah cara pandang geografi dalam memahami suatu fenomena.",
+        "- Keruangan: melihat lokasi, persebaran, pola, dan jarak suatu fenomena.",
+        "- Kelingkungan: melihat hubungan antara manusia dan lingkungan.",
+        "- Kompleks wilayah: melihat keterkaitan berbagai fenomena dalam suatu wilayah."
+      ]
+    },
+    {
+      "reg_id": "EAAR00329092026",
+      "status": "active",
+      "title": "Fenomena Geosfer",
+      "content": [
+        "#h1 Fenomena Geosfer",
+        "Geosfer adalah bagian-bagian bumi yang menjadi objek kajian geografi.",
+        "#table",
+        "Lapisan | Pengertian | Contoh",
+        "--- | --- | ---",
+        "Litosfer | Lapisan batuan yang menyusun bagian luar bumi | Gunung, dataran tinggi, dataran rendah, tanah",
+        "Hidrosfer | Seluruh bagian air yang terdapat di bumi | Sungai, laut, danau, air tanah",
+        "Atmosfer | Lapisan gas atau udara yang menyelimuti bumi | Awan, hujan, angin, suhu udara",
+        "Biosfer | Wilayah tempat berlangsungnya kehidupan | Flora dan fauna",
+        "Antroposfer | Bagian geosfer yang berkaitan dengan manusia dan aktivitasnya | Penduduk, permukiman, kegiatan ekonomi",
+        "#endtable",
+        "___",
+        "#h1 Contoh Analisis Fenomena Geosfer",
+        "Contoh: banjir.",
+        "- Hidrosfer: adanya peningkatan jumlah air.",
+        "- Atmosfer: hujan dengan intensitas tinggi.",
+        "- Litosfer: kondisi tanah dan bentuk permukaan wilayah.",
+        "- Biosfer: perubahan kondisi tumbuhan atau ekosistem.",
+        "- Antroposfer: aktivitas manusia, permukiman, dan perubahan penggunaan lahan."
+      ]
+    },
+    {
+      "reg_id": "EAAR00429092026",
+      "status": "active",
+      "title": "Aspek Geografi",
+      "content": [
+        "#h1 Aspek Geografi",
+        "Aspek geografi digunakan untuk melihat dan mengkaji suatu fenomena dari sisi tertentu.",
+        "#h3 Aspek Fisik",
+        "Berkaitan dengan kondisi alam atau lingkungan fisik.",
+        "- Iklim",
+        "- Cuaca",
+        "- Relief dan bentuk permukaan bumi",
+        "- Tanah",
+        "- Air",
+        "- Flora dan fauna",
+        "#h3 Aspek Sosial",
+        "Berkaitan dengan manusia dan aktivitasnya.",
+        "- Kependudukan",
+        "- Ekonomi",
+        "- Sosial",
+        "- Budaya",
+        "- Politik",
+        "- Permukiman",
+        "___",
+        "#h1 Contoh",
+        "Fenomena kemacetan dapat dikaji dari aspek fisik seperti kondisi jalan, dan aspek sosial seperti jumlah penduduk, kepadatan kendaraan, serta pola aktivitas masyarakat."
+      ]
+    },
+    {
+      "reg_id": "EAAR00529092026",
+      "status": "active",
+      "title": "Ruang Lingkup Geografi",
+      "content": [
+        "#h1 Ruang Lingkup Geografi",
+        "#h3 Geografi Fisik",
+        "Mempelajari fenomena alam yang terjadi di permukaan bumi, seperti iklim, tanah, air, batuan, flora, dan fauna.",
+        "#h3 Geografi Manusia",
+        "Mempelajari manusia dan aktivitasnya dalam ruang, seperti kependudukan, ekonomi, sosial, dan budaya.",
+        "#h3 Geografi Regional",
+        "Mempelajari karakteristik suatu wilayah secara menyeluruh dengan menggabungkan berbagai aspek geografi.",
+        "#h3 Geografi Teknik",
+        "Menggunakan teknik dan alat untuk memperoleh serta mengolah informasi geografis.",
+        "Contohnya adalah pemetaan, penginderaan jauh, dan Sistem Informasi Geografis (SIG)."
+      ]
+    },
+    {
+      "reg_id": "EAAR00629092026",
+      "status": "active",
+      "title": "Pendekatan Geografi",
+      "content": [
+        "#h1 Pendekatan Geografi",
+        "Pendekatan geografi merupakan cara pandang yang digunakan untuk menganalisis fenomena geosfer.",
+        "#h3 Pendekatan Keruangan",
+        "Menganalisis fenomena berdasarkan lokasi, persebaran, pola, jarak, dan keterkaitan antarruang.",
+        "Contoh: menganalisis persebaran sekolah di suatu kota.",
+        "#h3 Pendekatan Kelingkungan",
+        "Menganalisis hubungan timbal balik antara manusia dengan lingkungan.",
+        "Contoh: menganalisis dampak penebangan hutan terhadap risiko banjir.",
+        "#h3 Pendekatan Kompleks Wilayah",
+        "Menganalisis suatu wilayah dengan menggabungkan pendekatan keruangan dan kelingkungan serta melihat hubungan antarwilayah.",
+        "Contoh: membandingkan potensi ekonomi dua wilayah dan hubungan keduanya."
+      ]
+    },
+    {
+      "reg_id": "EAAR00729092026",
+      "status": "active",
+      "title": "Konsep Dasar Geografi",
+      "content": [
+        "#h1 Konsep Dasar Geografi",
+        "Konsep dasar geografi membantu menjelaskan berbagai fenomena yang terjadi di permukaan bumi.",
+        "#table",
+        "Konsep | Penjelasan | Contoh",
+        "--- | --- | ---",
+        "Lokasi | Letak suatu objek atau fenomena | Lokasi sekolah",
+        "Jarak | Ruang antara satu tempat dengan tempat lain | Jarak rumah ke sekolah",
+        "Keterjangkauan | Kemudahan suatu tempat untuk dicapai | Jalan menuju daerah terpencil",
+        "Pola | Susunan atau bentuk persebaran fenomena | Pola permukiman",
+        "Morfologi | Bentuk permukaan bumi | Pegunungan dan dataran",
+        "Aglomerasi | Pemusatan suatu aktivitas atau objek | Kawasan industri",
+        "Nilai kegunaan | Nilai atau manfaat suatu wilayah bagi manusia | Lahan pertanian",
+        "Interaksi dan interdependensi | Hubungan timbal balik antarwilayah | Desa memasok hasil pertanian ke kota",
+        "Diferensiasi area | Perbedaan karakteristik antarwilayah | Perbedaan wilayah pantai dan pegunungan",
+        "Keterkaitan keruangan | Hubungan antara berbagai fenomena dalam suatu ruang | Hubungan jalan dengan perkembangan permukiman",
+        "#endtable"
+      ]
+    },
+    {
+      "reg_id": "EAAR00829092026",
+      "status": "active",
+      "title": "Prinsip Geografi",
+      "content": [
+        "#h1 Prinsip Geografi",
+        "Prinsip geografi digunakan untuk memahami dan menganalisis fenomena geosfer.",
+        "#h3 Prinsip Persebaran",
+        "Fenomena geografi tersebar tidak merata di permukaan bumi.",
+        "Contoh: persebaran penduduk di Indonesia tidak sama pada setiap pulau.",
+        "#h3 Prinsip Interelasi",
+        "Menjelaskan hubungan antara satu fenomena dengan fenomena lainnya.",
+        "Contoh: curah hujan yang tinggi dapat berkaitan dengan meningkatnya debit sungai.",
+        "#h3 Prinsip Deskripsi",
+        "Fenomena geografi dijelaskan melalui uraian, tabel, grafik, peta, atau gambar.",
+        "#h3 Prinsip Korologi",
+        "Menganalisis suatu fenomena berdasarkan persebaran, interelasi, dan karakteristiknya dalam suatu ruang."
+      ]
+    },
+    {
+      "reg_id": "EAAR00929092026",
+      "status": "active",
+      "title": "Peta dan Informasi Geografis Dasar",
+      "content": [
+        "#h1 Pengertian Peta",
+        "Peta adalah gambaran permukaan bumi pada bidang datar yang diperkecil menggunakan skala dan simbol tertentu.",
+        "#h1 Unsur-Unsur Peta",
+        "- Judul peta",
+        "- Skala",
+        "- Legenda",
+        "- Simbol",
+        "- Orientasi atau arah mata angin",
+        "- Garis koordinat",
+        "- Inset",
+        "- Sumber dan tahun pembuatan",
+        "#h1 Skala Peta",
+        "Skala menunjukkan perbandingan jarak pada peta dengan jarak sebenarnya di permukaan bumi.",
+        "Contoh: skala 1 : 100.000 berarti 1 cm pada peta mewakili 100.000 cm atau 1 km di keadaan sebenarnya.",
+        "#h1 Informasi Geografis",
+        "Informasi geografis adalah informasi yang berkaitan dengan lokasi atau posisi suatu objek di permukaan bumi."
+      ]
+    },
+    {
+      "reg_id": "EAAR01029092026",
+      "status": "active",
+      "title": "Penginderaan Jauh dan SIG Dasar",
+      "content": [
+        "#h1 Penginderaan Jauh",
+        "Penginderaan jauh adalah teknik memperoleh informasi tentang objek atau wilayah di permukaan bumi tanpa melakukan kontak langsung dengan objek tersebut.",
+        "Contoh sumber data: citra satelit dan foto udara.",
+        "#h1 Sistem Informasi Geografis (SIG)",
+        "SIG adalah sistem yang digunakan untuk mengumpulkan, menyimpan, mengolah, menganalisis, dan menampilkan data yang memiliki informasi lokasi.",
+        "#h3 Contoh Penggunaan",
+        "- Pemetaan wilayah rawan banjir",
+        "- Pemetaan penggunaan lahan",
+        "- Analisis persebaran fasilitas umum",
+        "- Perencanaan tata ruang"
+      ]
+    },
+    {
+      "reg_id": "EAAR01129092026",
+      "status": "active",
+      "title": "Rangkuman Geografi Bab 1 - Catch Up",
+      "content": [
+        "#h1 Rangkuman Bab 1",
+        "1. Geografi mempelajari fenomena geosfer serta hubungan antara manusia dan lingkungan dalam ruang.",
+        "2. Objek material geografi berupa fenomena geosfer, sedangkan objek formal adalah cara pandang untuk menganalisisnya.",
+        "3. Fenomena geosfer meliputi litosfer, atmosfer, hidrosfer, biosfer, dan antroposfer.",
+        "4. Aspek geografi terdiri dari aspek fisik dan aspek sosial.",
+        "5. Pendekatan geografi terdiri dari pendekatan keruangan, kelingkungan, dan kompleks wilayah.",
+        "6. Konsep dasar geografi membantu menjelaskan lokasi, jarak, pola, keterjangkauan, interaksi, dan karakteristik wilayah.",
+        "7. Prinsip geografi terdiri dari prinsip persebaran, interelasi, deskripsi, dan korologi.",
+        "8. Peta digunakan untuk menyajikan informasi permukaan bumi dengan menggunakan skala dan simbol.",
+        "9. Penginderaan jauh memperoleh informasi tanpa kontak langsung dengan objek.",
+        "10. SIG digunakan untuk mengolah dan menganalisis informasi geografis berbasis lokasi."
+      ]
+    }
   ]
 }

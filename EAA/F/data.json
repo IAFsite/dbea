@@ -1,15 +1,301 @@
 {
-  "meta": {
-    "show_as": "Economi","wp": "wp.png"},
-  "data": [
-    {"reg_id": "EAAF00121072026","status": "active","title": "proyek kelangkaan","content": ["Nama: Hatala Bagaskara Bevan Ramon | Kelas: 10","https://topmedia.id/kenapa-ram-komputer-mendadak-langka-di-penghujung-2025-benarkah-karena-ulah-scalper/","#image 1D3A2D18-90FE-4F77-A0F3-EF634FBE915C.png","___","RAM adalah komponen penting dalam sebuah komputer dan pada awal tahun 2026 terjadikelangkkan RAM dan jelas yang paling merasakaan adalah gamer dan orang yang membutuhkan banyak ram seperti animator editor dan pekerjaan lainnya","___","ada kemungkinan kelangkaan ini terjadi karena adanya lonjakaan permintaan komponen dari datacenter AI karena ada nya lonjakan permintaan ini dari perusahaan tehnologi raksasa maka perusahaan pemroduksi RAM lebih memilih untuk mengeser alokasi prduksi chip untuk memnuhi permintaann ini","___","dan ada kemungkinan lain yang di sebabkan oleh perubahan infrasturktur, karena saat ini industri chip sedang bergeser dari system DDR4 ke DDR5, produksi chip DDR5 memiliki infrasturktur ysng lebih rumit sehingga banyak pabrik kesulitan untuk membuat chip yang lebih cepat","___","dan ada penyebab ke 3 yayitu kontrak jangka panjang anatar pabrikan dan investor","___","jelas banyak orang terutama yang bergerak dalam bidang digital terkena dampak seperti gamer, content crator, animator, editor dan tidak lupa progamer","___","beberapa solusi yang di tawarkan adalah:","- merakit RAM sendir","- mengunakan RAM bekas","- atau yang paling mudah adalah merawat RAM yang kita sudah punya"]},
-    {"reg_id": "EAAF00228072026","status": "active","title": "kebutuhan","content": ["#h1 berdasarkan intensitas","- primer : kebutuhan paling penting bagi manusia untuk melangsungkan hidup nya","- skuneder : barang pelengkap setelah primer","- tersier : ini ga penting ini buat gengsi aja","___","#h1 kebutuhan berdasarkan subjek","- individu : contoh dave itu seorang progaramer dan di butuh laptop sedangkan jamal adalah seorang supir dia butuh mobil jamal ga butuh laptop dan dave ga butuh mobil jadi ini kebutuhan seriap orang yg berbeda","- umum : semua orang butuh kek contoh nasi kek semua orang butuh makan","___","#h1 berdasarkan waktu","- sekarang : ini adalah kenutuhan yang ga bisa di tunda kek makanan kek kalau lu nunda makan mati lu pokonya ini primer","- masa mendatang : ini buat jaga jaga kek duit kuliah, kotak P3K atau hal laun yang keknya berguna buat masadepan kek wosh dulu","___","#h1 sifat penggunaan","- kebutuhan fisik : ini yg berhubungan soal fisik kek baju atau makanan","- kebutuhan rohani : ini yang berhubungan dengan mental kek jangan steres (gw aslinya juga ga tau)"]},
-    {"reg_id": "EAAF00328072026","status": "active","title": "misi","content": ["#h1 misi 01","#image fhbshbffbsfbsbfaiubf.png","#table","barang | tingkat | waktu | faktor","--- | --- | ---","makanan | primer | saat ini |saya lapar","isi kartu E-mony | primer | saat ini | kartunya habis","kamera ir | tersier | masa depan | saya butuh face tracking","sekolah | primer | saat ini | saya butuh edukasi","jajan | sekunder | saat ini | saya lapar","laptop | sekunder | saat ini | saya ingin mencatat","#endtable","","___","#h1 misi 02","#image askkdskskakakdka.png","barang = GC0308","cara memperoleh = ekonomi","hubungan penggunaan = komplimenter","proses pengolahan = setengah jadi","___","#h1 misi 03","#image image28072026.png","saya tidak akan membeli barang tersebut"]},
-    {"reg_id": "EAAF00428072026","status": "active","title": "biyaya peluang","content": ["jadi gini dawg anggap lah lu punya 2 pilihan kerja di ambatukam corp atau ambatubas corp","#table","nama | gaji/bulan","--- | ---","ambatukam corp | 200.000.000 Rp","ambatubas corp | 5.000.000","#endtable","dan lu memilih buat bekerja di ambatubas corp selama 3 bulan jadi ya karena lu bekerja di ambatubas corp lu dapet 128.000.000 Rp sedangkan kalau lu bekerja di ambatukam corp lu bisa dapet 600.000.000 Rp tapi karena lu ga kerja di sana lu ga dapet 600.000.000 Rp itu jadi ya pokonya biyaya peluang itu adalah duit yg lu ga dapet/keluarkan karena lu memilih opsi lain"]},
-    {"reg_id": "EAAF00528072026","status": "active","title": "prinsip dan motif","content": ["#table","prinsip | motif","--- | ---","cara mendapatkan nya | apa motifasi nya","#endtable","contoh","#table","prinsip | motif","--- | ---","korupsi | mau jadi kaya","#endtable","jadi gini ada seseorang yang pengen jadi kaya jadi biar dia kaya dia korupsi biar dapet duit"]},
-    {"reg_id": "EAAF00688092026","status": "active","title": "tugas 08/09/2026","content": ["#h1 tugas 1","#table","Pelaku Ekonomi | Peran utama yang dilakukan | Contoh nyata di kehidupan sehari-hari","--- | --- | ---","**RTK (Konsumen)** | Membeli dan menggunakan barang atau jasa untuk memenuhi kebutuhan | Saya membeli game di Steam untuk dimainkan","**RTP (Produsen)** | Menghasilkan dan menjual barang atau jasa | Developer membuat game dan menjualnya melalui Steam","**RTG (Pemerintah)** | Mengatur kegiatan ekonomi dan menerima pajak | Pemerintah menerima pajak dari transaksi pembelian barang atau jasa","**MLN (Luar Negeri)** | Melakukan kegiatan ekonomi dengan negara lain, seperti ekspor dan impor | Saya membeli game dari developer luar negeri melalui Steam","___","h1 tugas 2","#image amba"]}
-  ]
+"meta": {
+"show_as": "Economi",
+"wp": "wp.png"
+},
+"data": [
+{
+"reg_id": "EAAF00121072026",
+"status": "active",
+"title": "Proyek Kelangkaan",
+"content": [
+"Nama: Hatala Bagaskara Bevan Ramon | Kelas: 10",
+"[https://topmedia.id/kenapa-ram-komputer-mendadak-langka-di-penghujung-2025-benarkah-karena-ulah-scalper/](https://topmedia.id/kenapa-ram-komputer-mendadak-langka-di-penghujung-2025-benarkah-karena-ulah-scalper/)",
+"#image 1D3A2D18-90FE-4F77-A0F3-EF634FBE915C.png",
+"***",
+"RAM adalah komponen penting dalam sebuah komputer. Pada awal tahun 2026 terjadi kelangkaan RAM yang berdampak terutama pada gamer dan orang yang membutuhkan banyak RAM seperti animator, editor, dan pekerjaan lainnya.",
+"***",
+"Salah satu kemungkinan penyebab kelangkaan adalah lonjakan permintaan komponen dari data center AI. Karena adanya peningkatan permintaan dari perusahaan teknologi besar, produsen RAM dapat menggeser alokasi produksinya untuk memenuhi permintaan tersebut.",
+"***",
+"Kemungkinan lain berkaitan dengan perubahan infrastruktur karena industri chip sedang bergeser dari DDR4 ke DDR5. Perubahan teknologi produksi dapat memengaruhi ketersediaan jenis RAM tertentu.",
+"***",
+"Penyebab lain dapat berkaitan dengan kontrak jangka panjang antara pabrikan dan investor.",
+"***",
+"Dampaknya dapat dirasakan oleh gamer, content creator, animator, editor, programmer, dan pengguna komputer lainnya.",
+"***",
+"Beberapa solusi yang dapat dilakukan adalah:",
+"- Menggunakan RAM bekas yang masih layak.",
+"- Menunda upgrade jika belum diperlukan.",
+"- Merawat RAM yang sudah dimiliki.",
+"- Membandingkan harga dan kebutuhan sebelum membeli."
+]
+},
+{
+"reg_id": "EAAF00228072026",
+"status": "active",
+"title": "Kebutuhan",
+"content": [
+"#h1 Berdasarkan Intensitas",
+"- Primer: kebutuhan pokok yang penting untuk kelangsungan hidup.",
+"- Sekunder: kebutuhan pelengkap setelah kebutuhan primer terpenuhi.",
+"- Tersier: kebutuhan yang umumnya berkaitan dengan kenyamanan atau gaya hidup.",
+"***",
+"#h1 Berdasarkan Subjek",
+"- Individu: kebutuhan setiap orang dapat berbeda sesuai kondisi, pekerjaan, dan kehidupannya.",
+"- Umum: kebutuhan yang diperlukan oleh masyarakat secara luas.",
+"***",
+"#h1 Berdasarkan Waktu",
+"- Sekarang: kebutuhan yang harus dipenuhi dalam waktu dekat.",
+"- Masa mendatang: kebutuhan yang dipersiapkan untuk digunakan di masa depan.",
+"***",
+"#h1 Berdasarkan Sifat",
+"- Jasmani: kebutuhan yang berhubungan dengan tubuh, seperti makanan dan pakaian.",
+"- Rohani: kebutuhan yang berhubungan dengan jiwa dan pikiran, seperti pendidikan, hiburan, dan ketenangan."
+]
+},
+{
+"reg_id": "EAAF00328072026",
+"status": "active",
+"title": "Misi",
+"content": [
+"#h1 Misi 01",
+"#image fhbshbffbsfbsbfaiubf.png",
+"#table",
+"Barang | Tingkat | Waktu | Faktor",
+"--- | --- | --- | ---",
+"Makanan | Primer | Saat ini | Saya lapar",
+"Isi kartu E-Money | Primer | Saat ini | Kartunya habis",
+"Kamera IR | Tersier | Masa depan | Saya butuh face tracking",
+"Sekolah | Primer | Saat ini | Saya butuh edukasi",
+"Jajan | Sekunder | Saat ini | Saya lapar",
+"Laptop | Sekunder | Saat ini | Saya ingin mencatat",
+"#endtable",
+"***",
+"#h1 Misi 02",
+"#image askkdskskakakdka.png",
+"Barang = GC0308",
+"Cara memperoleh = Ekonomi",
+"Hubungan penggunaan = Komplementer",
+"Proses pengolahan = Setengah jadi",
+"***",
+"#h1 Misi 03",
+"#image image28072026.png",
+"Saya tidak akan membeli barang tersebut."
+]
+},
+{
+"reg_id": "EAAF00428072026",
+"status": "active",
+"title": "Biaya Peluang",
+"content": [
+"Anggap kita punya dua pilihan kerja: Ambatukam Corp atau Ambatubas Corp.",
+"#table",
+"Nama | Gaji/bulan",
+"--- | ---",
+"Ambatukam Corp | Rp200.000.000",
+"Ambatubas Corp | Rp5.000.000",
+"#endtable",
+"",
+"Jika memilih bekerja di Ambatubas Corp selama 3 bulan, pendapatan yang diperoleh adalah Rp15.000.000.",
+"",
+"Jika alternatif terbaik yang dilepaskan adalah Ambatukam Corp, maka biaya peluangnya adalah Rp600.000.000.",
+"",
+"Biaya peluang adalah nilai dari alternatif terbaik yang harus dilepaskan ketika memilih alternatif lain."
+]
+},
+{
+"reg_id": "EAAF00528072026",
+"status": "active",
+"title": "Prinsip dan Motif Ekonomi",
+"content": [
+"#table",
+"Prinsip | Motif",
+"--- | ---",
+"Cara atau tindakan untuk mencapai tujuan ekonomi secara efisien | Alasan atau dorongan seseorang melakukan kegiatan ekonomi",
+"#endtable",
+"",
+"#h1 Contoh",
+"Seseorang ingin mendapatkan keuntungan dari usaha.",
+"Motifnya adalah memperoleh keuntungan, sedangkan prinsip ekonominya adalah berusaha mencapai tujuan tersebut dengan mempertimbangkan sumber daya dan biaya yang tersedia."
+]
+},
+{
+"reg_id": "EAAF00608092026",
+"status": "active",
+"title": "Tugas 08/09/2026",
+"content": [
+"#h1 Tugas 1",
+"#table",
+"Pelaku Ekonomi | Peran utama yang dilakukan | Contoh nyata di kehidupan sehari-hari",
+"--- | --- | ---",
+"RTK (Konsumen) | Membeli dan menggunakan barang atau jasa untuk memenuhi kebutuhan | Saya membeli game di Steam untuk dimainkan",
+"RTP (Produsen) | Menghasilkan dan menjual barang atau jasa | Developer membuat game dan menjualnya melalui Steam",
+"RTG (Pemerintah) | Mengatur kegiatan ekonomi dan menerima pajak | Pemerintah menerima pajak dari transaksi pembelian barang atau jasa",
+"MLN (Luar Negeri) | Melakukan kegiatan ekonomi dengan negara lain, seperti ekspor dan impor | Saya membeli game dari developer luar negeri melalui Steam",
+"#endtable",
+"***",
+"#h1 Tugas 2",
+"#image amba"
+]
+},
+{
+"reg_id": "EAAF00729092026",
+"status": "active",
+"title": "Kelangkaan dan Masalah Ekonomi",
+"content": [
+"#h1 Kelangkaan",
+"Kelangkaan adalah kondisi ketika sumber daya yang tersedia terbatas sementara kebutuhan manusia beragam.",
+"",
+"#h1 Penyebab Kelangkaan",
+"- Keterbatasan sumber daya alam.",
+"- Pertumbuhan kebutuhan manusia.",
+"- Pertumbuhan jumlah penduduk.",
+"- Keterbatasan faktor produksi.",
+"- Distribusi sumber daya yang tidak merata.",
+"",
+"#h1 Masalah Ekonomi",
+"Kelangkaan membuat manusia harus menentukan pilihan karena sumber daya tidak cukup untuk memenuhi seluruh kebutuhan sekaligus.",
+"",
+"#h1 Tiga Pertanyaan Ekonomi",
+"- What: apa yang akan diproduksi?",
+"- How: bagaimana cara memproduksinya?",
+"- For whom: untuk siapa barang atau jasa tersebut diproduksi?"
+]
+},
+{
+"reg_id": "EAAF00829092026",
+"status": "active",
+"title": "Alat Pemuas Kebutuhan",
+"content": [
+"Alat pemuas kebutuhan adalah barang atau jasa yang digunakan untuk memenuhi kebutuhan manusia.",
+"",
+"#h1 Berdasarkan Wujud",
+"- Barang: alat pemuas kebutuhan yang berwujud.",
+"- Jasa: pelayanan atau aktivitas yang memberikan manfaat.",
+"***",
+"#h1 Berdasarkan Cara Memperoleh",
+"- Barang ekonomi: jumlahnya terbatas dan untuk memperolehnya diperlukan pengorbanan.",
+"- Barang bebas: tersedia melimpah dan dapat diperoleh tanpa pengorbanan ekonomi secara langsung.",
+"***",
+"#h1 Berdasarkan Hubungan dengan Barang Lain",
+"- Substitusi: dapat menggantikan fungsi barang lain.",
+"- Komplementer: penggunaannya saling melengkapi."
+]
+},
+{
+"reg_id": "EAAF00929092026",
+"status": "active",
+"title": "Jenis Barang Berdasarkan Proses Pengolahan",
+"content": [
+"#h1 Barang Mentah",
+"Barang yang belum mengalami proses pengolahan lebih lanjut.",
+"Contoh: kayu dari hasil penebangan.",
+"***",
+"#h1 Barang Setengah Jadi",
+"Barang yang sudah mengalami proses pengolahan tetapi masih membutuhkan proses lanjutan.",
+"Contoh: papan kayu yang akan digunakan untuk membuat meja.",
+"***",
+"#h1 Barang Jadi",
+"Barang yang sudah selesai diproduksi dan siap digunakan atau dikonsumsi.",
+"Contoh: meja dan kursi.",
+"",
+"#img [https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Substitution_effect.svg/640px-Substitution_effect.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Substitution_effect.svg/640px-Substitution_effect.svg.png)"
+]
+},
+{
+"reg_id": "EAAF01029092026",
+"status": "active",
+"title": "Kegiatan Ekonomi",
+"content": [
+"#h1 Produksi",
+"Produksi adalah kegiatan menghasilkan barang atau jasa atau menambah nilai guna suatu barang.",
+"",
+"#h1 Distribusi",
+"Distribusi adalah kegiatan menyalurkan barang atau jasa dari produsen kepada konsumen.",
+"",
+"#h1 Konsumsi",
+"Konsumsi adalah kegiatan menggunakan barang atau jasa untuk memenuhi kebutuhan.",
+"",
+"#img [https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Circular_flow_of_income.svg/640px-Circular_flow_of_income.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Circular_flow_of_income.svg/640px-Circular_flow_of_income.svg.png)"
+]
+},
+{
+"reg_id": "EAAF01129092026",
+"status": "active",
+"title": "Pelaku Ekonomi",
+"content": [
+"#h1 Rumah Tangga Konsumen (RTK)",
+"RTK berperan sebagai konsumen barang dan jasa serta dapat menyediakan faktor produksi.",
+"",
+"#h1 Rumah Tangga Produsen (RTP)",
+"RTP menghasilkan barang atau jasa dan menggunakan faktor produksi.",
+"",
+"#h1 Rumah Tangga Pemerintah (RTG)",
+"RTG berperan dalam mengatur kegiatan ekonomi, menyediakan layanan publik, serta melakukan kegiatan ekonomi tertentu.",
+"",
+"#h1 Masyarakat Luar Negeri (MLN)",
+"MLN melakukan hubungan ekonomi dengan suatu negara melalui kegiatan seperti ekspor, impor, dan kerja sama ekonomi.",
+"",
+"#img [https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Circular_flow_diagram.svg/640px-Circular_flow_diagram.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Circular_flow_diagram.svg/640px-Circular_flow_diagram.svg.png)"
+]
+},
+{
+"reg_id": "EAAF01229092026",
+"status": "active",
+"title": "Faktor Produksi",
+"content": [
+"Faktor produksi adalah sumber daya yang digunakan untuk menghasilkan barang dan jasa.",
+"",
+"#h1 Jenis Faktor Produksi",
+"- Sumber daya alam/tanah: segala sumber daya yang berasal dari alam dan digunakan dalam proses produksi.",
+"- Tenaga kerja: kemampuan fisik maupun pikiran manusia yang digunakan dalam kegiatan produksi.",
+"- Modal: barang atau sumber daya yang digunakan untuk membantu proses produksi, seperti mesin dan peralatan.",
+"- Kewirausahaan: kemampuan mengatur dan menggabungkan berbagai faktor produksi serta mengambil keputusan dalam kegiatan usaha.",
+"",
+"#img [https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Factors_of_production.svg/640px-Factors_of_production.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Factors_of_production.svg/640px-Factors_of_production.svg.png)"
+]
+},
+{
+"reg_id": "EAAF01329092026",
+"status": "active",
+"title": "Motif Ekonomi dan Tindakan Ekonomi",
+"content": [
+"#h1 Tindakan Ekonomi",
+"Tindakan ekonomi adalah tindakan manusia yang dilakukan untuk memenuhi kebutuhan dengan mempertimbangkan pilihan dan sumber daya yang tersedia.",
+"",
+"#h1 Motif Ekonomi",
+"Motif ekonomi adalah alasan atau dorongan seseorang melakukan tindakan ekonomi.",
+"",
+"Contoh motif ekonomi:",
+"- Memenuhi kebutuhan.",
+"- Mendapatkan keuntungan.",
+"- Memperoleh penghargaan atau status tertentu.",
+"- Membantu orang lain.",
+"",
+"#h1 Hubungan Ketiganya",
+"Kebutuhan mendorong seseorang melakukan tindakan ekonomi. Tindakan tersebut dilakukan berdasarkan motif tertentu dan mempertimbangkan prinsip ekonomi."
+]
+},
+{
+"reg_id": "EAAF01429092026",
+"status": "active",
+"title": "Rangkuman Ekonomi Semester 1 - Catch Up",
+"content": [
+"#h1 Materi Utama",
+"1. Kelangkaan dan masalah ekonomi.",
+"2. Kebutuhan berdasarkan intensitas, subjek, waktu, dan sifat.",
+"3. Alat pemuas kebutuhan.",
+"4. Barang ekonomi dan barang bebas.",
+"5. Barang substitusi dan komplementer.",
+"6. Barang mentah, setengah jadi, dan barang jadi.",
+"7. Biaya peluang.",
+"8. Prinsip, motif, dan tindakan ekonomi.",
+"9. Kegiatan ekonomi: produksi, distribusi, dan konsumsi.",
+"10. Pelaku ekonomi: RTK, RTP, RTG, dan masyarakat luar negeri.",
+"11. Faktor-faktor produksi.",
+"",
+"Inti materi ekonomi adalah bagaimana manusia membuat pilihan dalam menggunakan sumber daya yang terbatas untuk memenuhi kebutuhan yang beragam."
+]
 }
-
-
-
+]
+}

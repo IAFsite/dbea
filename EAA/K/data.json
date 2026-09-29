@@ -1,7 +1,251 @@
 {
-  "meta": {"show_as": "soiolog","wp": "wp.png"},
+  "meta": {
+    "show_as": "Sosiologi",
+    "wp": "wp.png"
+  },
   "data": [
-    {"reg_id": "EAAB00120072026","status": "active","title": "test","content": ["#empty"]}
-
+    {
+      "reg_id": "EAAB00120072026",
+      "status": "active",
+      "title": "test",
+      "content": [
+        "#empty"
+      ]
+    },
+    {
+      "reg_id": "EAAB00204082026",
+      "status": "active",
+      "title": "Pengantar Sosiologi",
+      "content": [
+        "#h1 Pengertian Sosiologi",
+        "Sosiologi adalah ilmu yang mempelajari masyarakat, hubungan sosial, interaksi sosial, serta berbagai proses yang terjadi dalam kehidupan bersama.",
+        "",
+        "#h1 Ciri-ciri Sosiologi",
+        "- Empiris: berdasarkan pengamatan terhadap kenyataan sosial.",
+        "- Teoretis: berusaha menyusun hubungan sebab-akibat atau penjelasan terhadap fenomena sosial.",
+        "- Kumulatif: teori dan pengetahuan dapat berkembang berdasarkan penelitian sebelumnya.",
+        "- Nonetis: tidak bertujuan menentukan apakah suatu fakta sosial baik atau buruk, tetapi berusaha menjelaskan fakta tersebut secara ilmiah.",
+        "",
+        "#h1 Objek Kajian",
+        "- Individu dalam kehidupan sosial.",
+        "- Kelompok sosial.",
+        "- Hubungan dan interaksi sosial.",
+        "- Lembaga sosial.",
+        "- Perubahan sosial.",
+        "- Masalah sosial."
+      ]
+    },
+    {
+      "reg_id": "EAAB00304082026",
+      "status": "active",
+      "title": "Tokoh dan Perkembangan Sosiologi",
+      "content": [
+        "Sosiologi berkembang sebagai ilmu untuk memahami perubahan masyarakat dan berbagai persoalan sosial.",
+        "",
+        "#h1 Tokoh Sosiologi",
+        "#table",
+        "Tokoh | Gagasan atau kontribusi",
+        "--- | ---",
+        "Auguste Comte | Memperkenalkan istilah sosiologi dan pendekatan positivisme",
+        "Émile Durkheim | Fakta sosial dan solidaritas sosial",
+        "Karl Marx | Konflik kelas dan perubahan masyarakat",
+        "Max Weber | Tindakan sosial dan pemahaman terhadap makna tindakan",
+        "#endtable",
+        "",
+        "Tokoh-tokoh tersebut mempunyai pendekatan yang berbeda dalam memahami masyarakat."
+      ]
+    },
+    {
+      "reg_id": "EAAB00404082026",
+      "status": "active",
+      "title": "Penelitian Sosial",
+      "content": [
+        "Penelitian sosial adalah kegiatan sistematis untuk memperoleh dan menganalisis data mengenai fenomena sosial.",
+        "",
+        "#h1 Tujuan Penelitian",
+        "- Memahami fenomena sosial.",
+        "- Menemukan informasi atau fakta.",
+        "- Menjelaskan hubungan antarfenomena.",
+        "- Membantu menemukan solusi terhadap masalah sosial.",
+        "",
+        "#h1 Tahapan Penelitian Sederhana",
+        "1. Menentukan masalah.",
+        "2. Merumuskan pertanyaan penelitian.",
+        "3. Menentukan tujuan penelitian.",
+        "4. Menentukan metode.",
+        "5. Mengumpulkan data.",
+        "6. Menganalisis data.",
+        "7. Menarik kesimpulan.",
+        "8. Menyusun laporan."
+      ]
+    },
+    {
+      "reg_id": "EAAB00529092026",
+      "status": "active",
+      "title": "Metode Penelitian Sosial",
+      "content": [
+        "#h1 Penelitian Kuantitatif",
+        "Penelitian kuantitatif menggunakan data yang dapat diukur atau dinyatakan dalam bentuk angka. Data biasanya dianalisis menggunakan perhitungan atau statistik.",
+        "",
+        "#h1 Penelitian Kualitatif",
+        "Penelitian kualitatif berfokus pada pemahaman yang lebih mendalam terhadap pengalaman, makna, perilaku, atau fenomena sosial.",
+        "",
+        "#table",
+        "Aspek | Kuantitatif | Kualitatif",
+        "--- | --- | ---",
+        "Data | Angka atau data terukur | Kata, narasi, dokumen, hasil pengamatan",
+        "Fokus | Pengukuran dan hubungan antarvariabel | Pemahaman mendalam terhadap fenomena",
+        "Contoh metode | Survei | Wawancara mendalam",
+        "#endtable"
+      ]
+    },
+    {
+      "reg_id": "EAAB00629092026",
+      "status": "active",
+      "title": "Teknik Pengumpulan Data",
+      "content": [
+        "Pengumpulan data dilakukan untuk memperoleh informasi yang diperlukan dalam penelitian.",
+        "",
+        "#h1 Observasi",
+        "Observasi adalah pengumpulan data dengan melakukan pengamatan terhadap objek atau fenomena yang diteliti.",
+        "",
+        "#h1 Wawancara",
+        "Wawancara dilakukan dengan mengajukan pertanyaan kepada narasumber untuk mendapatkan informasi.",
+        "",
+        "#h1 Kuesioner",
+        "Kuesioner adalah daftar pertanyaan yang diberikan kepada responden untuk memperoleh data.",
+        "",
+        "#h1 Dokumentasi",
+        "Dokumentasi menggunakan sumber seperti foto, arsip, catatan, laporan, atau dokumen lain sebagai data penelitian.",
+        "",
+        "#h1 Data Primer dan Sekunder",
+        "- Data primer diperoleh langsung dari sumber pertama oleh peneliti.",
+        "- Data sekunder diperoleh dari sumber yang sudah tersedia, seperti buku, laporan, arsip, atau publikasi."
+      ]
+    },
+    {
+      "reg_id": "EAAB00729092026",
+      "status": "active",
+      "title": "Variabel, Populasi, dan Sampel",
+      "content": [
+        "Dalam penelitian sosial, peneliti perlu menentukan apa yang diteliti dan siapa atau apa yang menjadi sumber data.",
+        "",
+        "#h1 Variabel",
+        "Variabel adalah sesuatu yang memiliki nilai atau karakteristik yang dapat diamati dan diteliti.",
+        "",
+        "#h1 Populasi",
+        "Populasi adalah seluruh kelompok yang menjadi sasaran penelitian.",
+        "",
+        "#h1 Sampel",
+        "Sampel adalah sebagian dari populasi yang dipilih untuk mewakili atau memberikan informasi mengenai populasi.",
+        "",
+        "#h1 Contoh",
+        "Jika penelitian membahas kebiasaan membaca siswa kelas X di sebuah sekolah, seluruh siswa kelas X dapat menjadi populasi. Sebagian siswa yang dipilih untuk mengisi kuesioner dapat menjadi sampel."
+      ]
+    },
+    {
+      "reg_id": "EAAB00829092026",
+      "status": "active",
+      "title": "Interaksi Sosial",
+      "content": [
+        "Interaksi sosial adalah hubungan timbal balik antara individu dengan individu, individu dengan kelompok, atau kelompok dengan kelompok.",
+        "",
+        "#h1 Syarat Interaksi Sosial",
+        "- Kontak sosial.",
+        "- Komunikasi.",
+        "",
+        "#h1 Bentuk Interaksi",
+        "- Individu dengan individu.",
+        "- Individu dengan kelompok.",
+        "- Kelompok dengan kelompok.",
+        "",
+        "#h1 Contoh",
+        "Percakapan antara dua siswa merupakan interaksi individu dengan individu. Diskusi antara seorang siswa dengan kelompok kelas merupakan interaksi individu dengan kelompok."
+      ]
+    },
+    {
+      "reg_id": "EAAB00929092026",
+      "status": "active",
+      "title": "Proses Sosial Asosiatif dan Disosiatif",
+      "content": [
+        "Proses sosial merupakan berbagai bentuk hubungan yang terjadi ketika individu atau kelompok berinteraksi.",
+        "",
+        "#h1 Proses Asosiatif",
+        "Proses asosiatif cenderung mengarah pada kerja sama atau integrasi sosial.",
+        "",
+        "- Kerja sama: usaha bersama untuk mencapai tujuan tertentu.",
+        "- Akomodasi: proses untuk mengurangi atau menyelesaikan pertentangan.",
+        "- Asimilasi: proses ketika perbedaan kebudayaan semakin berkurang dan terbentuk pola budaya baru.",
+        "- Akulturasi: masuknya unsur kebudayaan lain tanpa menghilangkan seluruh unsur budaya asli.",
+        "",
+        "#h1 Proses Disosiatif",
+        "Proses disosiatif dapat berupa persaingan, kontravensi, dan konflik.",
+        "",
+        "- Persaingan: usaha untuk memperoleh sesuatu tanpa menggunakan kekerasan.",
+        "- Kontravensi: proses sosial yang berada di antara persaingan dan konflik, seperti penolakan atau penyebaran rumor.",
+        "- Konflik: pertentangan antara individu atau kelompok karena adanya perbedaan kepentingan atau tujuan."
+      ]
+    },
+    {
+      "reg_id": "EAAB01029092026",
+      "status": "active",
+      "title": "Nilai dan Norma Sosial",
+      "content": [
+        "Nilai sosial adalah sesuatu yang dianggap penting, baik, atau berharga oleh masyarakat dan menjadi pedoman dalam bertindak.",
+        "",
+        "Norma sosial adalah aturan atau pedoman perilaku yang dibuat atau berkembang dalam masyarakat.",
+        "",
+        "#h1 Contoh Norma",
+        "- Norma agama: berkaitan dengan ajaran agama.",
+        "- Norma kesusilaan: berkaitan dengan hati nurani dan moral.",
+        "- Norma kesopanan: berkaitan dengan kebiasaan dan tata perilaku dalam masyarakat.",
+        "- Norma hukum: aturan yang bersifat resmi dan memiliki sanksi yang ditetapkan oleh lembaga berwenang.",
+        "",
+        "Nilai menjadi dasar pertimbangan, sedangkan norma memberikan aturan perilaku yang lebih konkret."
+      ]
+    },
+    {
+      "reg_id": "EAAB01129092026",
+      "status": "active",
+      "title": "Status dan Peran Sosial",
+      "content": [
+        "Status sosial adalah posisi seseorang atau kelompok dalam struktur sosial.",
+        "",
+        "Peran sosial adalah perilaku atau tindakan yang diharapkan dari seseorang berdasarkan status sosialnya.",
+        "",
+        "#h1 Jenis Status",
+        "- Ascribed status: status yang diperoleh sejak lahir atau tanpa usaha pribadi.",
+        "- Achieved status: status yang diperoleh melalui usaha atau pencapaian.",
+        "- Assigned status: status yang diberikan kepada seseorang karena dianggap berjasa atau memiliki peran tertentu.",
+        "",
+        "#h1 Contoh",
+        "Seorang siswa memiliki status sebagai pelajar dan memiliki peran untuk mengikuti kegiatan pembelajaran, menaati aturan sekolah, serta menjalankan tanggung jawab sebagai siswa."
+      ]
+    },
+    {
+      "reg_id": "EAAB01229092026",
+      "status": "active",
+      "title": "Rangkuman Sosiologi Semester 1 - Catch Up",
+      "content": [
+        "#h1 Materi yang Perlu Dikuasai",
+        "1. Pengertian dan ciri-ciri sosiologi.",
+        "2. Objek kajian sosiologi.",
+        "3. Tokoh dan perkembangan sosiologi.",
+        "4. Penelitian sosial.",
+        "5. Metode penelitian kuantitatif dan kualitatif.",
+        "6. Teknik pengumpulan data.",
+        "7. Data primer dan sekunder.",
+        "8. Variabel, populasi, dan sampel.",
+        "9. Interaksi sosial.",
+        "10. Proses sosial asosiatif dan disosiatif.",
+        "11. Nilai dan norma sosial.",
+        "12. Status dan peran sosial.",
+        "",
+        "#h1 Inti Materi",
+        "Sosiologi mempelajari masyarakat dan hubungan sosial secara ilmiah. Untuk memahami fenomena sosial, sosiolog menggunakan konsep dan metode penelitian untuk mengumpulkan serta menganalisis data.",
+        "",
+        "Konsep penting yang perlu dikuasai adalah hubungan antara individu, kelompok, interaksi sosial, nilai dan norma, serta proses sosial yang terjadi dalam masyarakat."
+      ]
+    }
   ]
 }

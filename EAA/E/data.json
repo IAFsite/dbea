@@ -1,7 +1,235 @@
 {
-  "meta": {"show_as": "PAI","wp": "wp.png"},
+  "meta": {
+    "show_as": "PAI",
+    "wp": "wp.png"
+  },
   "data": [
-    {"reg_id": "EAAE00121072026","status": "active","title": "penanaman adab dan iman materi semester 1","content": ["#h1 1 adab","- bakti lints agama dan batas toleransi teologis","- berbuat baik kepada orangtua yang musyrik dan menyambung silaturohim dengan kerabat yang musyrik","- menjaga orang musyrik yang sakit dan menjenguk orang afik yang saikt","- apabila orang kafir memberi salam maka dibalas dengan yang serupa dan jangan memulai salam pada orang kafi","___","#h1 2 iman","- beriman kepada qadar dan mahabbah allah","- thaharah : kejadian kidab fiqih klasoh","___","#h1 3 alquran","- thafidz jus30: surah asy-sayam sampai at-taqih dan surah al waqhiah","- fazhahah tilawah dan  fleksibilitas nada","- nunsukun & tanwin","- mimsukun","- hukum dan sukun tanwin","- makan dan minum dalam perspektif alquran"]},
-    {"reg_id": "EAAE00228072026","status": "active","title": "berbuat baik kepada orang musyrik","content": ["jika seseorang sudah mengajak ke hal yang musyrik maka kita boleh menolak","___","#h2 QS.luqman ayat 15","#right","وَاِنْ جَاهَدٰكَ عَلٰٓى اَنْ تُشْرِكَ بِيْ مَا لَيْسَ لَكَ بِهٖ عِلْمٌ فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا فِى الدُّنْيَا مَعْرُوْفًاۖ وَّاتَّبِعْ سَبِيْلَ مَنْ اَنَابَ اِلَيَّۚ ثُمَّ اِلَيَّ مَرْجِعُكُمْ فَاُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُوْنَ ۝١٥","#endalign","wa in jâhadâka ‘alâ an tusyrika bî mâ laisa laka bihî ‘ilmun fa lâ tuthi‘humâ wa shâḫib-humâ fid-dun-yâ ma‘rûfaw wattabi‘ sabîla man anâba ilayy, tsumma ilayya marji‘ukum fa unabbi'ukum bimâ kuntum ta‘malûn","Dan jika keduanya memaksamu untuk mempersekutukan Aku dengan sesuatu yang engkau tidak mempunyai ilmu tentang itu, maka janganlah engkau menaati keduanya, dan pergaulilah keduanya di dunia dengan baik, dan ikutilah jalan orang yang kembali kepada-Ku. Kemudian hanya kepada-Kulah kembalimu, maka akan Aku beritahu kepadamu apa yang telah kamu kerjakan"]}
+    {
+      "reg_id": "EAAE00121072026",
+      "status": "active",
+      "title": "Penanaman Adab dan Iman Materi Semester 1",
+      "content": [
+        "#h1 1. Adab",
+        "- Berbakti lintas agama dan memahami batas toleransi teologis.",
+        "- Berbuat baik kepada orang tua yang musyrik dan menyambung silaturahmi dengan kerabat yang musyrik.",
+        "- Menjaga dan menjenguk orang musyrik yang sakit.",
+        "- Apabila orang kafir memberi salam, maka dibalas dengan yang serupa dan tidak memulai salam kepada orang kafir.",
+        "***",
+        "#h1 2. Iman",
+        "- Beriman kepada qadar dan mahabbah Allah.",
+        "- Thaharah: pembahasan dasar dalam fikih.",
+        "***",
+        "#h1 3. Al-Qur'an",
+        "- Tahfidz Juz 30: surah Asy-Syams sampai At-Takatsur dan Surah Al-Waqi'ah.",
+        "- Fashahah tilawah dan fleksibilitas nada.",
+        "- Nun sukun dan tanwin.",
+        "- Mim sukun.",
+        "- Hukum nun sukun dan tanwin.",
+        "- Makan dan minum dalam perspektif Al-Qur'an."
+      ]
+    },
+    {
+      "reg_id": "EAAE00228072026",
+      "status": "active",
+      "title": "Berbuat Baik kepada Orang Musyrik",
+      "content": [
+        "Jika seseorang mengajak kepada perbuatan syirik, maka kita boleh menolak ajakan tersebut.",
+        "___",
+        "#h2 QS. Luqman Ayat 15",
+        "#right",
+        "وَاِنْ جَاهَدٰكَ عَلٰٓى اَنْ تُشْرِكَ بِيْ مَا لَيْسَ لَكَ بِهٖ عِلْمٌ فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا فِى الدُّنْيَا مَعْرُوْفًاۖ وَّاتَّبِعْ سَبِيْلَ مَنْ اَنَابَ اِلَيَّۚ ثُمَّ اِلَيَّ مَرْجِعُكُمْ فَاُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُوْنَ ۝١٥",
+        "#endalign",
+        "Wa in jâhadâka ‘alâ an tusyrika bî mâ laisa laka bihî ‘ilmun fa lâ tuthi‘humâ wa shâḫib-humâ fid-dun-yâ ma‘rûfaw wattabi‘ sabîla man anâba ilayy, tsumma ilayya marji‘ukum fa unabbi'ukum bimâ kuntum ta‘malûn.",
+        "Dan jika keduanya memaksamu untuk mempersekutukan Aku dengan sesuatu yang engkau tidak mempunyai ilmu tentang itu, maka janganlah engkau menaati keduanya, dan pergaulilah keduanya di dunia dengan baik, dan ikutilah jalan orang yang kembali kepada-Ku. Kemudian hanya kepada-Kulah kembalimu, maka akan Aku beritahu kepadamu apa yang telah kamu kerjakan.",
+        "",
+        "#h1 Pelajaran",
+        "- Tidak mengikuti ajakan kepada kesyirikan.",
+        "- Tetap memperlakukan orang tua dengan baik.",
+        "- Perbedaan keyakinan tidak menjadi alasan untuk berbuat buruk atau memutus hubungan sosial."
+      ]
+    },
+    {
+      "reg_id": "EAAE00329092026",
+      "status": "active",
+      "title": "Menjenguk Orang yang Sakit dan Hubungan Sosial Lintas Agama",
+      "content": [
+        "Menjenguk orang yang sakit merupakan bentuk kepedulian sosial.",
+        "",
+        "Dalam hubungan sosial, seorang Muslim tetap dapat berbuat baik kepada orang yang berbeda agama selama tidak mengikuti atau menyetujui ajaran yang bertentangan dengan akidah Islam.",
+        "",
+        "#h1 Prinsip Utama",
+        "- Menjaga hubungan sosial dengan baik.",
+        "- Membantu dalam hal yang baik dan tidak bertentangan dengan ajaran agama.",
+        "- Tetap menjaga batas dalam masalah akidah dan ibadah.",
+        "- Tidak memaksakan keyakinan kepada orang lain.",
+        "- Menunjukkan sikap sopan dan menghargai sesama manusia."
+      ]
+    },
+    {
+      "reg_id": "EAAE00429092026",
+      "status": "active",
+      "title": "Adab kepada Orang Tua yang Berbeda Keyakinan",
+      "content": [
+        "Islam mengajarkan untuk tetap berbuat baik kepada orang tua, termasuk ketika orang tua memiliki keyakinan yang berbeda.",
+        "",
+        "Namun, ketaatan kepada orang tua memiliki batas. Jika diperintahkan melakukan sesuatu yang bertentangan dengan ajaran Islam, perintah tersebut tidak diikuti, tetapi hubungan dan perlakuan baik tetap dijaga.",
+        "",
+        "Dasar pembahasan terdapat dalam QS. Luqman ayat 15.",
+        "",
+        "#h1 Bentuk Berbakti",
+        "- Berbicara dengan sopan.",
+        "- Membantu dalam perkara yang baik.",
+        "- Menjaga hubungan keluarga.",
+        "- Menghormati orang tua.",
+        "- Tidak mengikuti perintah yang bertentangan dengan akidah atau syariat."
+      ]
+    },
+    {
+      "reg_id": "EAAE00529092026",
+      "status": "active",
+      "title": "Thaharah",
+      "content": [
+        "Thaharah berarti bersuci dari hadas dan najis sebagai salah satu bagian penting dalam fikih.",
+        "",
+        "#h1 Jenis Bersuci",
+        "- Wudu untuk menghilangkan hadas kecil.",
+        "- Mandi wajib untuk menghilangkan hadas besar.",
+        "- Tayamum sebagai pengganti wudu atau mandi dalam kondisi tertentu.",
+        "",
+        "#h1 Najis",
+        "Najis adalah sesuatu yang menurut ketentuan syariat harus dibersihkan dari badan, pakaian, atau tempat sebelum melakukan ibadah tertentu.",
+        "",
+        "#h1 Hadas",
+        "Hadas adalah keadaan tidak suci pada seseorang yang menyebabkan seseorang perlu melakukan bersuci tertentu sebelum melaksanakan ibadah tertentu.",
+        "",
+        "Hadas kecil dapat disucikan dengan wudu, sedangkan hadas besar disucikan dengan mandi wajib. Dalam keadaan tertentu, tayamum dapat menjadi pengganti bersuci menggunakan air."
+      ]
+    },
+    {
+      "reg_id": "EAAE00629092026",
+      "status": "active",
+      "title": "Nun Sukun dan Tanwin",
+      "content": [
+        "Nun sukun adalah huruf nun yang tidak memiliki harakat.",
+        "",
+        "Tanwin adalah bunyi nun mati yang terdapat pada akhir kata dan ditandai dengan dua harakat.",
+        "",
+        "#h1 Hukum Nun Sukun dan Tanwin",
+        "- Izhar.",
+        "- Idgham.",
+        "- Iqlab.",
+        "- Ikhfa.",
+        "",
+        "#h2 1. Izhar",
+        "Nun sukun atau tanwin dibaca jelas ketika bertemu huruf-huruf izhar.",
+        "",
+        "#h2 2. Idgham",
+        "Nun sukun atau tanwin dileburkan ke dalam huruf setelahnya. Idgham terbagi menjadi idgham bighunnah dan idgham bilaghunnah.",
+        "",
+        "#h2 3. Iqlab",
+        "Nun sukun atau tanwin berubah menjadi bunyi mim ketika bertemu huruf ba.",
+        "",
+        "#h2 4. Ikhfa",
+        "Nun sukun atau tanwin dibaca samar dengan dengung ketika bertemu huruf-huruf ikhfa.",
+        "",
+        "Pembagian hukum tersebut ditentukan berdasarkan huruf yang datang setelah nun sukun atau tanwin."
+      ]
+    },
+    {
+      "reg_id": "EAAE00729092026",
+      "status": "active",
+      "title": "Mim Sukun",
+      "content": [
+        "Mim sukun adalah mim yang tidak memiliki harakat.",
+        "",
+        "#h1 Hukum Mim Sukun",
+        "- Ikhfa syafawi.",
+        "- Idgham mimi.",
+        "- Izhar syafawi.",
+        "",
+        "#h2 1. Ikhfa Syafawi",
+        "Mim sukun bertemu huruf ba dan dibaca samar dengan dengung.",
+        "",
+        "#h2 2. Idgham Mimi",
+        "Mim sukun bertemu mim sehingga dibaca dengan cara meleburkan kedua mim disertai dengung.",
+        "",
+        "#h2 3. Izhar Syafawi",
+        "Mim sukun bertemu selain huruf ba dan mim sehingga dibaca dengan jelas.",
+        "",
+        "Hukum bacaan mim sukun ditentukan berdasarkan huruf yang datang setelahnya."
+      ]
+    },
+    {
+      "reg_id": "EAAE00829092026",
+      "status": "active",
+      "title": "Adab Makan dan Minum dalam Perspektif Al-Qur'an",
+      "content": [
+        "Makan dan minum dalam Islam tidak hanya berkaitan dengan kebutuhan tubuh, tetapi juga memiliki aturan dan adab.",
+        "",
+        "#h1 Prinsip Dasar",
+        "- Memilih makanan dan minuman yang halal dan baik.",
+        "- Tidak berlebihan.",
+        "- Bersyukur atas makanan dan minuman yang diberikan Allah.",
+        "- Menjaga kebersihan.",
+        "- Menghindari sesuatu yang diharamkan.",
+        "",
+        "#h1 Sikap yang Diterapkan",
+        "- Membaca basmalah sebelum makan dan minum.",
+        "- Makan dan minum dengan cara yang baik dan sopan.",
+        "- Tidak mencela makanan.",
+        "- Menghindari pemborosan.",
+        "- Bersyukur setelah mendapatkan makanan dan minuman.",
+        "",
+        "Makan dan minum seharusnya dilakukan dengan memperhatikan ketentuan agama sekaligus menjaga kesehatan dan keseimbangan."
+      ]
+    },
+    {
+      "reg_id": "EAAE00929092026",
+      "status": "active",
+      "title": "Iman kepada Qadar dan Mahabbah Allah",
+      "content": [
+        "Iman kepada qadar berarti meyakini bahwa segala sesuatu terjadi dalam ilmu dan ketetapan Allah.",
+        "",
+        "Mahabbah Allah berarti mencintai Allah. Kecintaan kepada Allah dapat diwujudkan melalui ketaatan, ibadah, dan menjalankan perintah-Nya.",
+        "",
+        "#h1 Sikap yang Perlu Dibangun",
+        "- Berusaha sebelum menyerahkan hasil kepada Allah.",
+        "- Bersyukur ketika mendapatkan nikmat.",
+        "- Bersabar ketika menghadapi kesulitan.",
+        "- Tidak menjadikan qadar sebagai alasan untuk meninggalkan usaha dan tanggung jawab.",
+        "- Meningkatkan ketaatan sebagai bentuk kecintaan kepada Allah.",
+        "",
+        "#h1 Hubungan Ikhtiar dan Qadar",
+        "Memahami qadar bukan berarti manusia tidak perlu berusaha. Manusia tetap diperintahkan untuk berikhtiar, mengambil keputusan, dan bertanggung jawab atas perbuatannya, kemudian menyerahkan hasil akhirnya kepada Allah."
+      ]
+    },
+    {
+      "reg_id": "EAAE01029092026",
+      "status": "active",
+      "title": "Rangkuman PAI Semester 1 - Catch Up",
+      "content": [
+        "#h1 Materi Utama",
+        "1. Adab dalam hubungan sosial lintas agama.",
+        "2. Berbuat baik kepada orang tua dan kerabat yang berbeda keyakinan.",
+        "3. Menjenguk dan memperlakukan orang sakit dengan baik.",
+        "4. Iman kepada qadar dan mahabbah Allah.",
+        "5. Thaharah dan dasar-dasar fikih.",
+        "6. Nun sukun dan tanwin.",
+        "7. Mim sukun.",
+        "8. Adab makan dan minum dalam perspektif Al-Qur'an.",
+        "9. Tahfidz dan kelancaran membaca Al-Qur'an.",
+        "",
+        "#h1 Inti Materi",
+        "Materi PAI semester 1 mencakup akidah, adab, fikih, dan Al-Qur'an. Tujuannya bukan hanya memahami konsep, tetapi juga menerapkannya dalam kehidupan sehari-hari.",
+        "",
+        "#h1 Catatan Catch Up",
+        "- Pahami perbedaan antara toleransi sosial dan mengikuti ibadah atau keyakinan agama lain.",
+        "- Kuasai dasar wudu, mandi wajib, dan tayamum.",
+        "- Hafalkan dan bedakan hukum nun sukun/tanwin serta mim sukun.",
+        "- Latih bacaan Al-Qur'an secara rutin dengan memperhatikan tajwid dan kelancaran.",
+        "- Pahami hubungan antara ikhtiar, qadar, dan tanggung jawab manusia.",
+        "- Terapkan adab yang dipelajari dalam hubungan dengan keluarga dan masyarakat."
+      ]
+    }
   ]
 }

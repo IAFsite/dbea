@@ -1,6 +1,64 @@
 {
-  "meta": {"show_as": "kebangsaan","wp": "wp.png"},
+  "meta": {
+    "show_as": "Kebangsaan",
+    "wp": "wp.png"
+  },
   "data": [
-    {"reg_id":"DOAT00129072026","title":"Tugas Geografi","status":"active","content":["#h1 Tugas Geografi","#h3 Jawaban","___","#h2 1. Mengapa geografi disebut sebagai ilmu tua?","Geografi sering disebut sebagai ilmu tua karena kajiannya sudah dilakukan sejak zaman dahulu, ketika manusia mulai mengamati dan menggambarkan keadaan bumi serta lingkungan di sekitarnya. Salah satu buktinya adalah pada era geografi klasik sudah terdapat tokoh seperti Eratosthenes yang menggunakan istilah geografi dan melakukan pengukuran terhadap bumi.","___","#h2 2. Perbedaan fokus kajian geografi","- **Geografi klasik:** berfokus pada penggambaran dan penjelajahan permukaan bumi, termasuk pemetaan wilayah dan pengenalan tempat-tempat baru.","- **Abad pertengahan:** kajian geografi banyak dipengaruhi oleh perkembangan ilmu pengetahuan, agama, perdagangan, dan perjalanan. Geografi digunakan untuk menggambarkan wilayah serta jalur perdagangan dan pelayaran.","- **Geografi modern:** berfokus pada hubungan antara manusia dengan lingkungan serta berbagai fenomena yang terjadi di permukaan bumi. Geografi modern juga menggunakan teknologi seperti peta digital, Sistem Informasi Geografis (SIG), penginderaan jauh, dan analisis data.","___","#h2 3. Hal-hal yang dipelajari dalam geografi","- **Fenomena alam:** geografi mempelajari berbagai fenomena alam yang terjadi di bumi. Contohnya adalah gunung meletus.","- **Lingkungan:** geografi mempelajari hubungan antara berbagai unsur lingkungan di permukaan bumi. Contohnya adalah pencemaran sungai akibat sampah.","- **Manusia dan aktivitasnya:** geografi mempelajari persebaran penduduk serta aktivitas manusia dan pengaruhnya terhadap ruang. Contohnya adalah pembangunan permukiman yang semakin meluas di daerah perkotaan.","___","#h2 Fenomena Geosfer","#h3 a. Contoh Fenomena Atmosfer","- Hujan deras","- Angin kencang","- Perubahan suhu udara","- Badai","#h3 b. Contoh Fenomena Hidrosfer","- Banjir","- Kekeringan","- Gelombang laut","- Aliran sungai","#h3 c. Contoh Fenomena Litosfer","- Gempa bumi","- Gunung meletus","- Tanah longsor","- Erosi tanah","#h3 d. Contoh Fenomena Biosfer","- Persebaran tumbuhan di suatu wilayah","- Pertumbuhan hutan","- Migrasi hewan","- Berkurangnya populasi suatu spesies","#h3 e. Contoh Fenomena Antroposfer","- Pertumbuhan jumlah penduduk","- Urbanisasi","- Pembangunan permukiman","- Aktivitas perdagangan dan industri",""]} 
+    {
+      "reg_id": "EAAT00129072026",
+      "title": "Tugas Geografi",
+      "status": "active",
+      "content": [
+        "#h1 Tugas Geografi",
+        "#h3 Jawaban",
+        "___",
+        "#h2 1. Mengapa geografi disebut sebagai ilmu tua?",
+        "Geografi sering disebut sebagai ilmu tua karena kajiannya sudah dilakukan sejak zaman dahulu, ketika manusia mulai mengamati dan menggambarkan keadaan bumi serta lingkungan di sekitarnya. Salah satu buktinya adalah adanya tokoh seperti Eratosthenes pada masa Yunani Kuno yang menggunakan istilah geografi dan melakukan pengukuran terhadap bumi.",
+        "___",
+        "#h2 2. Perbedaan fokus kajian geografi",
+        "- **Geografi klasik:** berfokus pada penggambaran permukaan bumi, penjelajahan wilayah, pengenalan tempat, dan pemetaan.",
+        "- **Abad pertengahan:** perkembangan geografi banyak berkaitan dengan perjalanan, perdagangan, pelayaran, perkembangan ilmu pengetahuan, serta penyusunan peta dan informasi wilayah.",
+        "- **Geografi modern:** berfokus pada hubungan antara manusia, lingkungan, ruang, dan berbagai fenomena yang terjadi di permukaan bumi. Geografi modern juga memanfaatkan teknologi seperti Sistem Informasi Geografis (SIG), penginderaan jauh, peta digital, dan analisis data.",
+        "___",
+        "#h2 3. Hal-hal yang dipelajari dalam geografi",
+        "- **Fenomena alam:** mempelajari berbagai fenomena fisik yang terjadi di bumi, seperti gunung meletus, gempa bumi, hujan, dan erosi.",
+        "- **Lingkungan:** mempelajari hubungan antara berbagai unsur lingkungan, termasuk hubungan manusia dengan lingkungan. Contohnya pencemaran sungai akibat aktivitas manusia.",
+        "- **Manusia dan aktivitasnya:** mempelajari persebaran penduduk, permukiman, kegiatan ekonomi, transportasi, serta pengaruh aktivitas manusia terhadap ruang.",
+        "___",
+        "#h2 Fenomena Geosfer",
+        "#h3 a. Contoh Fenomena Atmosfer",
+        "- Hujan deras",
+        "- Angin kencang",
+        "- Perubahan suhu udara",
+        "- Badai",
+        "#h3 b. Contoh Fenomena Hidrosfer",
+        "- Banjir",
+        "- Kekeringan",
+        "- Gelombang laut",
+        "- Aliran sungai",
+        "#h3 c. Contoh Fenomena Litosfer",
+        "- Gempa bumi",
+        "- Gunung meletus",
+        "- Tanah longsor",
+        "- Erosi tanah",
+        "#h3 d. Contoh Fenomena Biosfer",
+        "- Persebaran tumbuhan di suatu wilayah",
+        "- Pertumbuhan hutan",
+        "- Migrasi hewan",
+        "- Berkurangnya populasi suatu spesies",
+        "#h3 e. Contoh Fenomena Antroposfer",
+        "- Pertumbuhan jumlah penduduk",
+        "- Urbanisasi",
+        "- Pembangunan permukiman",
+        "- Aktivitas perdagangan dan industri",
+        "___",
+        "#h1 Hubungan Antarfemomena Geosfer",
+        "Fenomena geosfer saling berhubungan dan dapat memengaruhi kehidupan manusia.",
+        "Contoh: hujan deras sebagai fenomena atmosfer dapat meningkatkan debit sungai dan menyebabkan banjir. Banjir kemudian dapat memengaruhi permukiman, transportasi, kegiatan ekonomi, dan kehidupan masyarakat.",
+        "___",
+        "#h1 Kesimpulan",
+        "Geografi merupakan ilmu yang mempelajari fenomena geosfer serta hubungan antara manusia dan lingkungannya dalam ruang. Kajian geografi berkembang dari penggambaran dan pemetaan bumi menjadi ilmu yang menggunakan berbagai pendekatan serta teknologi untuk memahami hubungan antarfaktor di suatu wilayah."
+      ]
+    }
   ]
 }
